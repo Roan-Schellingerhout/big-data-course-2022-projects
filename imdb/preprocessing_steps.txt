@@ -3,3 +3,7 @@
 - Accents are sometimes added to the primaryTitle like in: Pássing Fáncy
 - no crazy values in years
 - some strong outliers on runtime, like 400/500 minutes
+
+- Around 800 missing values in numVotes (of which I think it is going to be the strongest predictor)
+	-> Use datawig to impute the missing values?
+	-> Also some large outliers, so ned to remove / scale ? (after inspection)
