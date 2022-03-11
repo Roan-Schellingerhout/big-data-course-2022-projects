@@ -1,0 +1,5 @@
+- Sometimes the end year is filled in and the start year is empty, seems like the endYear should go into the startYear
+- Original title has original language as well --> could deduce language of movie from this
+- Accents are sometimes added to the primaryTitle like in: Pássing Fáncy
+- no crazy values in years
+- some strong outliers on runtime, like 400/500 minutes
