@@ -1,3 +1,5 @@
+from langdetect import detect
+
 def add_language_of_original_title(df_):
     '''Create column indicating the language of the available title.''' 
     

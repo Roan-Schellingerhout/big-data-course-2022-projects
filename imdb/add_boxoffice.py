@@ -26,4 +26,9 @@ def add_box_office(df_):
     # drop the uneccessary columns
     df_.drop(['Release Group', '%', '%.1', 'year', 'endYear'], axis=1, inplace=True)
     
+    # convert the dollars to floats
+    for key in ['Worldwide', 'Domestic', 'Foreign']:
+        df_.loc[df_[key] == '-', key] = np.nan  # handle the -
+        df_.loc[df_[key].notnull(), key] = df_.loc[df_[key].notnull(), key].apply(lambda x: float(x.replace('$', '').replace(',', '')))
+   
     return df_
