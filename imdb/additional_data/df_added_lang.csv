@@ -1,4 +1,4 @@
-,tconst,primaryTitle,originalTitle,startYear,endYear,runtimeMinutes,numVotes,label,language,isEN
+,tconst,primaryTitle,originalTitle,startYear,endYear,runtimeMinutes,numVotes,label,title_language,isEN
 0,tt0015224,peter pan,nan,1924,,105,1042.0,True,no,False
 1,tt0015864,the gold rush,nan,1925,,95,107475.0,True,en,True
 2,tt0016029,the little colonel,nan,1935,,81,1646.0,True,en,True
