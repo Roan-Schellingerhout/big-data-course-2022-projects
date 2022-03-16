@@ -1,22 +1,24 @@
 import re
+import pandas as pd
+
+
+def retrieve_year(string):
+    try:
+        return int(re.search('\((.*?)\)', string).group()[1:-1])
+    except:
+        return pd.NA
+
+def remove_year(string):
+    try:
+        return re.sub('\((.*?)\)', '', string)[:-1]
+    except:
+        return str
 
 def add_movie_genre(df_):
     ''''Create onehot encoded features of genres'''
     
-    def retrieve_year(string):
-        try:
-            return int(re.search('\((.*?)\)', string).group()[1:-1])
-        except:
-            return pd.NA
-
-    def remove_year(string):
-        try:
-            return re.sub('\((.*?)\)', '', string)[:-1]
-        except:
-            return str
-
     # load movies with genre data
-    movie_genres = pd.read_csv(r'movie_genres.csv', index_col=0)
+    movie_genres = pd.read_csv(r'additional_data/movie_genres.csv', index_col=0)
 
     # remove movies in data set that don't have genres
     movie_genres = movie_genres[movie_genres['genres'] != '(no genres listed)']
@@ -38,8 +40,7 @@ def add_movie_genre(df_):
                                        .str.replace(" ", "_", regex=True)\
                                        .str.replace("\W", "", regex=True)
     
-    df_ = pd.merge(df_, movie_genres[['year', 'titleFormatted', 'genres']], left_on=['primaryTitleFormatted', 'startYear'], right_on=['titleFormatted', 'year'], how='left')
-    
+    df_ = df_.reset_index().merge( movie_genres[['year', 'titleFormatted', 'genres']], left_on=['primaryTitleFormatted', 'Year'], right_on=['titleFormatted', 'year'], how='left').set_index('index')
     s = df_['genres'].explode()
     df_ = df_.join(pd.crosstab(s.index, s))
     
