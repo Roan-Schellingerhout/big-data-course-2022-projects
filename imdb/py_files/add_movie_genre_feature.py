@@ -40,9 +40,11 @@ def add_movie_genre(df_):
                                        .str.replace(" ", "_", regex=True)\
                                        .str.replace("\W", "", regex=True)
     
-    df_ = df_.reset_index().merge( movie_genres[['year', 'titleFormatted', 'genres']], left_on=['primaryTitleFormatted', 'Year'], right_on=['titleFormatted', 'year'], how='left').set_index('index')
+    movie_genres.drop_duplicates(subset=['titleFormatted', 'year'], inplace=True)
+    
+    df_ = df_.reset_index().merge(movie_genres[['year', 'titleFormatted', 'genres']], left_on=['primaryTitleFormatted', 'Year'], right_on=['titleFormatted', 'year'], how='left').set_index('id')
     s = df_['genres'].explode()
-    df_ = df_.join(pd.crosstab(s.index, s))
+    df_ = df_.join(pd.crosstab(s.index, s), how='left')
     
     return df_
     
