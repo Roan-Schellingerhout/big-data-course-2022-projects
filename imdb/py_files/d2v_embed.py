@@ -4,7 +4,7 @@ import multiprocessing as mp
 from tqdm import tqdm
 import pandas as pd
 
-def d2v_embed(df_col, max_epochs = 100, vec_size = 100, alpha = 0.025):
+def d2v_embed(df_col, max_epochs = 100, vec_size = 128, alpha = 0.025):
     
     df_col = df_col.fillna(" ")
     df_col = df_col.str.lower()\
