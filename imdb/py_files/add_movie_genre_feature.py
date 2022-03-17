@@ -25,7 +25,7 @@ def add_movie_genre(df_):
     
     # get date for each movie from title column
     movie_genres['year'] = movie_genres['title'].apply(lambda x: retrieve_year(x))
-    movie_genres = movie_genres.dropna(subset='year')
+    movie_genres = movie_genres.dropna(subset=['year'])
 
     # remove year from title column and set title data type correctly
     movie_genres['year'] = movie_genres['year'].astype(int)
