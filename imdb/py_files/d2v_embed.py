@@ -3,6 +3,7 @@ from nltk.tokenize import word_tokenize
 import multiprocessing as mp
 from tqdm import tqdm
 import pandas as pd
+import math
 
 def d2v_embed(df_col, max_epochs = 100, vec_size = 128, alpha = 0.025):
     
