@@ -25,7 +25,7 @@ def d2v_embed(df_col, max_epochs = 100, vec_size = 128, alpha = 0.025):
   
     model.build_vocab(tagged_data)
 
-    for epoch in tqdm(range(max_epochs)):
+    for epoch in tqdm(range(max_epochs), desc=f"Training on {df_col.name}"):
     #     print('iteration {0}'.format(epoch))
         model.train(tagged_data,
                     total_examples=model.corpus_count,

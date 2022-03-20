@@ -38,18 +38,20 @@ def df_model_prep(df, filename):
     df['title_language'] = pd.factorize(df['title_language'])[0]
     
     prim_title_df = d2v_embed(df['primaryTitle'])
-    orig_title_df = d2v_embed(df['originalTitle'])
-    prim_title_formatted_df = d2v_embed(df['primaryTitleFormatted'])
-    title_formatted_df = d2v_embed(df['titleFormatted'])
-    genres_df = d2v_embed(df['genres'])
+#     orig_title_df = d2v_embed(df['originalTitle'])
+#     prim_title_formatted_df = d2v_embed(df['primaryTitleFormatted'])
+#     title_formatted_df = d2v_embed(df['titleFormatted'])
+#    genres_df = d2v_embed(df['genres'])
+    overview_df = d2v_embed(df['overview'])
     
     df.drop(columns = df.select_dtypes(include='object').columns, inplace=True)
     
     df = df.join(prim_title_df)
-    df = df.join(orig_title_df)
-    df = df.join(prim_title_formatted_df)
-    df = df.join(title_formatted_df)
-    df = df.join(genres_df)
+#     df = df.join(orig_title_df)
+#     df = df.join(prim_title_formatted_df)
+#     df = df.join(title_formatted_df)
+#    df = df.join(genres_df)
+    df = df.join(overview_df)
     
     df.to_csv(f"{filename}_df_with_features_fully_processed_read_for_model.csv")
     
