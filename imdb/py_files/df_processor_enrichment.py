@@ -1,5 +1,6 @@
 import json
 import numpy as np
+import ast
 import pandas as pd
 from itertools import groupby
 
@@ -17,6 +18,16 @@ import lightgbm as lgb
 from sklearn.metrics import accuracy_score
 import math
 
+from py_files.load_original_data import load_original_data
+
+def dict_to_list(dictionary):
+    try:
+        d = ast.literal_eval(dictionary)
+    except ValueError:
+        return []
+    
+    return [i["name"] for i in d]
+
 def df_processor_enrichment(filename):
     
     try:
@@ -24,9 +35,13 @@ def df_processor_enrichment(filename):
         return pd.read_csv(f"{filename}_df_with_features.csv", index_col = 0)
     except:
         print("File not found, creating a new one..")
-              
-    df_original = pd.read_csv(filename, index_col=0)
-    # df_original.head()
+    
+    if filename == 'train':
+        df_original = load_original_data()
+        df_original.head()
+    else:
+        df_original = pd.read_csv(filename, index_col=0)
+        # df_original.head()
 
     # start the preprocessing
     df_preprocessed = df_original.replace("\\N", np.nan)
@@ -64,7 +79,24 @@ def df_processor_enrichment(filename):
     # Find writers and directors per movie and combine the two
     written_and_directed = (writer_director_to_one_hot("writers") + writer_director_to_one_hot("directors")).fillna(0).astype(int).loc[df_preprocessed['tconst']]
 
-
+    
+    df_TMDB = pd.read_csv("additional_data/TMDB.csv")[["budget", "genres", "imdb_id", 
+                                                   "original_language", "overview", 
+                                                   "popularity", "production_companies", 
+                                                   "tagline", "Keywords", "revenue"]]
+    
+    df_TMDB["genres"] = df_TMDB["genres"].apply(lambda x: dict_to_list(x))
+    df_TMDB["Keywords"] = df_TMDB["Keywords"].apply(lambda x: dict_to_list(x))
+    df_TMDB["production_companies"] = df_TMDB["production_companies"].apply(lambda x: dict_to_list(x))
+    df_TMDB = df_TMDB.set_index("imdb_id")
+    
+    df_meta = pd.read_csv("additional_data/Metacritic.csv").drop("Unnamed: 0", axis=1).set_index("movie")
+    df_meta["overview"] = df_meta["overview"].apply(lambda x: eval(x))
+    df_meta["overview"] = df_meta["overview"].apply(lambda x: x[0] if x else str(x))
+    
+    # Combine for faster merge
+    df_TMDB["overview"] = df_TMDB["overview"].str.cat(df_meta["overview"], join="outer", na_rep="")
+    
     df_box_office_mojo = load_and_aggregate_box_office()
 
     # process the 'release group' (read movie title) in the same way as the formatted title
