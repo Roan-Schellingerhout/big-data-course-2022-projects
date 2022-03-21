@@ -1,5 +1,6 @@
 import json
 import numpy as np
+import ast
 import pandas as pd
 from itertools import groupby
 
@@ -17,6 +18,16 @@ import lightgbm as lgb
 from sklearn.metrics import accuracy_score
 import math
 
+from py_files.load_original_data import load_original_data
+
+def dict_to_list(dictionary):
+    try:
+        d = ast.literal_eval(dictionary)
+    except ValueError:
+        return []
+    
+    return [i["name"] for i in d]
+
 def df_processor_enrichment(filename):
     
     try:
@@ -24,9 +35,13 @@ def df_processor_enrichment(filename):
         return pd.read_csv(f"{filename}_df_with_features.csv", index_col = 0)
     except:
         print("File not found, creating a new one..")
-              
-    df_original = pd.read_csv(filename, index_col=0)
-    # df_original.head()
+    
+    if filename == 'train':
+        df_original = load_original_data()
+        df_original.head()
+    else:
+        df_original = pd.read_csv(filename, index_col=0)
+        # df_original.head()
 
     # start the preprocessing
     df_preprocessed = df_original.replace("\\N", np.nan)
@@ -62,8 +77,30 @@ def df_processor_enrichment(filename):
 
 
     # Find writers and directors per movie and combine the two
-    written_and_directed = (writer_director_to_one_hot("writers") + writer_director_to_one_hot("directors")).fillna(0).astype(int).loc[df_preprocessed['tconst']]
+    writers = writer_director_to_one_hot("writers")
+    directors = writer_director_to_one_hot("directors")
+    written_and_directed = writers.add(directors, fill_value=0).fillna(0).astype(int).loc[df_preprocessed["tconst"]]
+    
+    df_TMDB = pd.read_csv("additional_data/TMDB.csv")[["budget", "genres", "imdb_id", 
+                                                       "original_language", "overview", 
+                                                       "popularity", "production_companies", 
+                                                       "tagline", "Keywords", "revenue"]]
 
+    ### TODO: genres_TMDB and the other genres column should be merged
+    df_TMDB["genres_TMDB"] = df_TMDB["genres"].apply(lambda x: dict_to_list(x))
+    df_TMDB["Keywords"] = df_TMDB["Keywords"].apply(lambda x: dict_to_list(x))
+    df_TMDB["production_companies"] = df_TMDB["production_companies"].apply(lambda x: dict_to_list(x))
+    df_TMDB = df_TMDB.set_index("imdb_id")
+    
+    df_meta = pd.read_csv("additional_data/Metacritic.csv").drop("Unnamed: 0", axis=1).set_index("movie")
+    df_meta["overview"] = df_meta["overview"].apply(lambda x: eval(x))
+    df_meta["overview"] = df_meta["overview"].apply(lambda x: x[0] if x else str(x))
+    
+    # Combine for faster merge
+    overviews = pd.merge(df_TMDB["overview"], df_meta["overview"], left_index=True, right_index=True, how="outer")
+    overviews["overview"] = overviews["overview_x"].str.cat(overviews["overview_y"], na_rep="")
+    overviews = overviews.drop(["overview_x", "overview_y"], axis=1)
+    df_TMDB = df_TMDB.drop(["overview", "genres"], axis=1)    
 
     df_box_office_mojo = load_and_aggregate_box_office()
 
@@ -84,6 +121,9 @@ def df_processor_enrichment(filename):
 
     df_incl_exog["oscar_noms"] = oscar_noms
     df_incl_exog["oscar_wins"] = oscar_wins
+    
+    df_incl_exog = pd.merge(df_incl_exog, df_TMDB, how="left", left_index=True, right_index=True)
+    df_incl_exog = pd.merge(df_incl_exog, overviews, how="left", left_index=True, right_index=True)
 
     df_incl_exog = df_incl_exog.reset_index().merge(df_box_office_mojo, left_on=['primaryTitleFormatted', 'Year'], right_on=['Release Group', 'year'], how="left").set_index('id')
     df_incl_exog.drop(['Release Group', 'year'], axis=1, inplace=True)

@@ -4,7 +4,7 @@ import glob
 def load_original_data():
     """Load original data into dataframe."""
     
-    all_files = glob.glob("train*.csv")
+    all_files = glob.glob("train-*.csv")
 
     print(f"Found files: {', '.join(all_files)}")
 
