@@ -1,0 +1,956 @@
+tconst,primaryTitle,_c0,originalTitle,startYear,endYear,runtimeMinutes,numVotes,label,primaryTitleFormatted,oscar_noms,oscar_wins,razzie_noms,razzie_wins,budget,genres,genres_meta,language,popularity,revenue,movie_id,Rank,Worldwide,Domestic,Foreign,hasRemake,title_language,isEN
+tt0066449,There's a Girl in My Soup,1311,There's a Girl in My Soup,1970,"",95,"","",there's a girl in my soup,"","","","","","","","","","","","","","","",0,"",false
+tt2910904,The Dressmaker,7857,The Dressmaker,"",2015,119,"","",the dressmaker,"","","","",11930000,Drama,"","",7.95686,18340000,tt2910904,"","","","",0,"",false
+tt5519566,Thé First Mớndáy in Máy,8963,The First Monday in May,2016,"",90,1659.0,"",the first monday in may,"","","","","","","","","","","","","","","",0,"",false
+tt0075261,Squirm,1635,Squirm,"",1976,92,"","",squirm,"","","","","","","","","","","","","","","",0,"",false
+tt0079766,Quadrophenia,1778,Quadrophenia,1979,"",120,18413.0,"",quadrophenia,"","","","","","","","","","","","","","","",0,"",false
+tt2337981,Architecture 101,7537,"",2012,"",118,3547.0,"",architecture 101,"","","","","","","","","","","",173,2.6642354E7,"",2.6642354E7,0,"",false
+tt0361696,Raise Your Voice,4446,Raise Your Voice,2004,"",107,27592.0,"",raise your voice,"","","","",15000000,Music Drama Romance,"","",4.387004,"",tt0361696,172,1.4867514E7,1.041198E7,4455534.0,0,"",false
+tt0109288,Blankman,2888,"",1994,"",92,9586.0,"",blankman,"","","","","","","","","","","",119,7941977.0,7941977.0,"",0,"",false
+tt9686154,You Will Die at 20,9974,"",2019,"",103,2106.0,"",you will die at 20,"","","","","","","","","","","","","","","",0,"",false
+tt0125522,Sue,3391,Sue,"",1997,91,1394.0,"",sue,"","","","","","","","","","","","","","","",0,"",false
+tt0118588,All Stars,3229,All Stars,1997,"",115,2931.0,"",all stars,"","","","","","","","","","","","","","","",0,"",false
+tt0107613,Mr. Wonderful,2838,Mr. Wonderful,1993,"",98,3298.0,"",mr. wonderful,"","","","","","","","","","","",157,3125424.0,3125424.0,"",0,"",false
+tt0292319,Varavelpu,4149,"",1989,"",144,1797.0,"",varavelpu,"","","","","","","","","","","","","","","",0,"",false
+tt0080549,Coal Miner's Daughter,1805,"",1980,"",124,"","",coal miner's daughter,7,1,"","",15000000,Drama Music,"","",2.847277,"",tt0080549,7,6.7182787E7,6.7182787E7,"",0,"",false
+tt2915160,Bethlehem,7860,Bethlehem,2013,"",99,2145.0,"",bethlehem,"","","","","","","","","","","","","","","",0,"",false
+tt0377569,"Good Morning, Night",4550,"Buongiorno, notte",2003,"",106,3553.0,"","good morning, night","","","","","","","","","","","","","","","",0,"",false
+tt0369226,Alone in the Dark,4499,Alone in the Dark,2005,"",99,"","",alone in the dark,"","","","",20000000,Action Fantasy Horror Thriller,"","",5.871243,10442808,tt0369226,"","","","",0,"",false
+tt0316463,Québec-Montréal,4266,Québec-Montréal,2002,"",104,1767.0,"",quebec-montreal,"","","","","","","","","","","","","","","",0,"",false
+tt0230169,Ed Gein,3822,In the Light of the Moon,2000,"",89,5308.0,"",ed gein,"","","","",0,Crime Drama Horror Thriller,"","",2.475288,"",tt0230169,"","","","",0,"",false
+tt9812614,Hope,9989,"",2019,"",130,1402.0,"",hope,"","","","","","","","","","","","","","","",0,"",false
+tt2111392,Raze,7312,Raze,"",2013,87,5988.0,"",raze,"","","","","","","","","","","","","","","",0,"",false
+tt0114443,Final Hour,3076,"",1995,"",83,1179.0,"",final hour,"","","","","","","","","","","","","","","",0,"",false
+tt0110329,Leprechaun 2,2945,"",1994,"",85,9953.0,"",leprechaun 2,"","","","",2000000,Comedy Horror,"","",3.3924,2260622,tt0110329,169,2260622.0,2260622.0,"",0,"",false
+tt2061702,To the Forest of Firefly Lights,7253,Hotarubi no mori e,2011,"",45,16331.0,"",to the forest of firefly lights,"","","","","","","","","","","","","","","",0,"",false
+tt5710042,Mercy,9045,Mercy,2016,"",90,3291.0,"",mercy,"","","","","","","","","","","","","","","",0,"",false
+tt0022153,The Miracle Woman,92,"",1931,"",90,2013.0,"",the miracle woman,"","","","","","","","","","","","","","","",0,"",false
+tt10539608,The Midnight Sky,5708,"",2020,"",118,"","",the midnight sky,"","","","","","","","","","","","","","","",0,"",false
+tt0106579,"Clean, Shaven",2803,"Clean, Shaven",1993,"",79,5459.0,"","clean, shaven","","","","","","","","","","","","","","","",0,"",false
+tt0769499,Aathi,5241,Aathi,2006,"",167,2314.0,"",aathi,"","","","","","","","","","","","","","","",0,"",false
+tt0099273,City Life,2561,City Life,"",1990,251,4108.0,"",city life,"","","","","","","","","","","","","","","",0,"",false
+tt0119822,As Good as It Gets,3301,"",1997,"",139,"","",as good as it gets,7,2,"","",50000000,Comedy Romance,"","",9.374049,"",tt0119822,7,1.48478011E8,1.48478011E8,"",0,"",false
+tt1302011,Kung Fu Panda 2,6267,Kung Fu Panda 2,2011,"",90,268923.0,"",kung fu panda 2,1,"","","",150000000,Animation Family,"","",11.481921,"",tt1302011,6,6.65692281E8,1.65249063E8,5.00443218E8,0,"",false
+tt1087461,Megan Is Missing,5779,Megan Is Missing,2011,"",89,11600.0,"",megan is missing,"","","","","","","","","","","","","","","",0,"",false
+tt1079968,Jack and the Beanstalk,5764,"",2009,"",94,1854.0,"",jack and the beanstalk,"","","","","","","","","","","","","","","",0,"",false
+tt1391034,And Soon the Darkness,6416,And Soon the Darkness,2010,"",91,17274.0,"",and soon the darkness,"","","","","","","","","","","","","","","",0,"",false
+tt2181889,Death Do Us Part,7378,Death Do Us Part,2014,"",93,1057.0,"",death do us part,"","","","","","","","","","","","","","","",0,"",false
+tt0191636,Widow of St Pierre,3701,La veuve de Saint-Pierre,2000,"",112,5505.0,"",widow of st pierre,"","","","","","","","","","","","","","","",0,"",false
+tt11389748,Mass,5925,Mass,2021,"",111,1039.0,"",mass,"","","","","","","","","","","","","","","",0,"",false
+tt0082490,Who Pulled the Plug?,1863,Göta kanal eller Vem drog ur proppen?,1981,"",99,3844.0,"",who pulled the plug?,"","","","","","","","","","","","","","","",0,"",false
+tt0084597,Richard Pryor: Live on the Sunset Strip,1956,"",1982,"",82,4081.0,"",richard pryor: live on the sunset strip,"","","","","","","","","","","",20,3.629972E7,3.629972E7,"",0,"",false
+tt0100049,Longtime Companion,2590,Longtime Companion,1989,"",96,5654.0,"",longtime companion,1,"","","","","","","","","","","","","","",0,"",false
+tt7881550,Har Kisse Ke Hisse: Kaamyaab,9626,"",2018,"",109,4033.0,"",har kisse ke hisse: kaamyaab,"","","","","","","","","","","","","","","",0,"",false
+tt11274100,Archenemy,5878,Archenemy,2020,"",90,2829.0,"",archenemy,"","","","","","","","","","","","","","","",0,"",false
+tt0034461,Aniki Bóbó,307,Aniki Bóbó,1942,"",71,1677.0,"",aniki bobo,"","","","","","","","","","","","","","","",0,"",false
+tt6772950,Truth or Dare,9372,Truth or Dare,2018,"",100,52538.0,"",truth or dare,"","","","","","","","","","","",73,9.5330493E7,4.1411015E7,5.3919478E7,0,"",false
+tt0242256,Álái Páyúthéy,3870,"",2000,"",156,6091.0,"",alai payuthey,"","","","",2000000,Romance Drama,"","",0.570021,6000000,tt0242256,"","","","",0,"",false
+tt2608324,Manhattan Romance,7741,Manhattan Romance,2014,"",94,1337.0,"",manhattan romance,"","","","","","","","","","","","","","","",0,"",false
+tt11003228,Breeder,5821,"",2020,"",107,1046.0,"",breeder,"","","","","","","","","","","","","","","",0,"",false
+tt0088658,A.K.,2132,"",1985,"",75,1124.0,"",a.k.,"","","","","","","","","","","","","","","",0,"",false
+tt0095215,Ghost Town,2411,Ghost Town,1988,"",85,1487.0,"",ghost town,"","","","","","","","","","","","","","","",0,"",false
+tt2461150,Masterminds,7658,Masterminds,"",2016,95,53786.0,"",masterminds,"","","","",25000000,Action Comedy Crime,"","",9.434588,"",tt2461150,168,2.9674699E7,1.7368022E7,1.2306677E7,0,"",false
+tt3692652,Eloise,8250,"",2016,"",89,4143.0,"",eloise,"","","","","","","","","","","","","","","",0,"",false
+tt0041996,Twelve O'Clock High,501,"",1949,"",132,14181.0,"",twelve o'clock high,4,2,"","",0,War Action Drama,"","",2.870026,3225000,tt0041996,"","","","",0,"",false
+tt0118083,Wintér Báy,3223,Vinterviken,1996,"",98,1772.0,"",winter bay,"","","","","","","","","","","","","","","",0,"",false
+tt1339248,Aapthamitra,6336,"",2004,"",100,1043.0,"",aapthamitra,"","","","","","","","","","","","","","","",0,"",false
+tt7085842,The End?,9440,"",2017,"",100,1786.0,"",the end?,"","","","","","","","","","","","","","","",0,"",false
+tt0150980,The Housemaid,3514,"",1960,"",109,3967.0,"",the housemaid,"","","","","","","","","","","","","","","",0,"",false
+tt0080516,The Changeling,1803,"",1980,"",107,33163.0,"",the changeling,"","","","",0,Horror Thriller,"","",5.821597,"",tt0080516,"","","","",0,"",false
+tt0091400,Lét's Gét Hárry,2241,Let's Get Harry,1986,"",102,1294.0,"",let's get harry,"","","","","","","","","","","",196,140980.0,140980.0,"",0,"",false
+tt1535432,Crave,6625,"",2012,"",113,1150.0,"",crave,"","","","","","","","","","","","","","","",0,"",false
+tt0043910,Payment on Demand,544,"",1951,"",90,1645.0,"",payment on demand,"","","","","","","","","","","","","","","",0,"",false
+tt0067805,Sunday Bloody Sunday,1376,Sunday Bloody Sunday,1971,"",110,6086.0,"",sunday bloody sunday,4,"","","","","","","","","","","","","","",0,"",false
+tt0099512,Ernest Goes to Jail,2571,"",1990,"",81,9339.0,"",ernest goes to jail,"","","","","","","","","","","",51,2.5029569E7,2.5029569E7,"",0,"",false
+tt0054215,Psycho,862,"",1960,"",109,638539.0,"",psycho,4,"","","",806948,Drama Horror Thriller,"","",36.82631,"",tt0054215,"","","","",0,"",false
+tt0073221,Júst Béfớré Nightfáll,1561,"",1971,"",106,1994.0,"",just before nightfall,"","","","","","","","","","","","","","","",0,"",false
+tt7336182,Outback,9501,Outback,2019,"",86,1211.0,"",outback,"","","","","","","","","","","","","","","",0,"",false
+tt0099720,Guns,2579,"",1990,"",96,1221.0,"",guns,"","","","","","","","","","","","","","","",0,"",false
+tt0209933,Beau travail,3762,Beau travail,1999,"",92,"","",beau travail,"","","","","","","","","","","","","","","",0,"",false
+tt0421229,Mrs. Palfrey at the Claremont,4794,"","",2005,108,3321.0,"",mrs. palfrey at the claremont,"","","","",750000,Comedy Drama,"","",2.6982,"",tt0421229,"","","","",0,"",false
+tt0074802,Lipstick,1620,"",1976,"",89,2176.0,"",lipstick,"","","","","","","","","","","","","","","",0,"",false
+tt0832903,Mánúfáctúréd Lándscápés,5363,"",2006,"",86,2897.0,"",manufactured landscapes,"","","","",0,Documentary,"","",1.170876,"",tt0832903,"","","","",0,"",false
+tt1153102,The Devil's Ground,5966,The Cycle,2009,"",89,1559.0,"",the devil's ground,"","","","","","","","","","","","","","","",0,"",false
+tt0082926,Polyester,1888,"",1981,"",86,7816.0,"",polyester,"","","","","","","","","","","","","","","",0,"",false
+tt5278930,Sky Ladder: The Art of Cai Guo-Qiang,8890,Sky Ladder: The Art of Cai Guo-Qiang,2016,"",76,1384.0,"",sky ladder: the art of cai guo-qiang,"","","","","","","","","","","","","","","",0,"",false
+tt0076734,Sớldiér ớf Ớrángé,1682,Soldaat van Oranje,1977,"",155,12743.0,"",soldier of orange,"","","","","","","","","","","","","","","",0,"",false
+tt1680140,Thé Stớlén,6856,"",2017,"",98,1267.0,"",the stolen,"","","","","","","","","","","","","","","",0,"",false
+tt4170436,That Thing Called Tadhana,8470,"","",2014,110,1049.0,"",that thing called tadhana,"","","","","","","","","","","","","","","",0,"",false
+tt0808532,Hacking Democracy,5312,"",2006,"",82,1292.0,"",hacking democracy,"","","","","","","","","","","","","","","",0,"",false
+tt0073017,Barbed Wire Dolls,1555,Frauengefängnis,1976,"",90,1237.0,"",barbed wire dolls,"","","","","","","","","","","","","","","",0,"",false
+tt0068897,The Magnificent Seven Ride!,1423,"",1972,"",100,"","",the magnificent seven ride!,"","","","","","","","","","","","","","","",0,"",false
+tt0037096,Mrs. Parkington,373,"",1944,"",124,1570.0,"",mrs. parkington,2,"","","","","","","","","","","","","","",0,"",false
+tt2246595,Blood Money,7451,Blood Money,2012,"",109,1519.0,"",blood money,"","","","","","","","","","","","","","","",0,"",false
+tt0077740,Insiang,1718,"",1976,"",95,1294.0,"",insiang,"","","","","","","","","","","","","","","",0,"",false
+tt3885524,The Phenom,8345,"",2016,"",88,2241.0,"",the phenom,"","","","","","","","","","","","","","","",0,"",false
+tt1596722,Superheroes,6723,"",2010,"",115,1112.0,"",superheroes,"","","","","","","","","","","","","","","",0,"",false
+tt0027336,The Lower Depths,158,Les bas-fonds,1936,"",95,3194.0,"",the lower depths,"","","","","","","","","","","","","","","",0,"",false
+tt0115851,Celtic Pride,3124,Celtic Pride,1996,"",91,9946.0,"",celtic pride,"","","","","","","","","","","",132,9255027.0,9255027.0,"",0,"",false
+tt1365483,Main Street,6381,Main Street,2010,"",92,2747.0,"",main street,"","","","","","","","","","","","","","","",0,"",false
+tt0213890,Mohabbatein,3782,"",2000,"",216,28913.0,"",mohabbatein,"","","","","","","","","","","",174,4279351.0,1070000.0,3209351.0,0,"",false
+tt1935109,Dipu Number 2,7154,Dipu Number 2,1996,"",154,"","",dipu number 2,"","","","","","","","","","","","","","","",0,"",false
+tt11143634,All of Us,5848,"",2019,"",112,1477.0,"",all of us,"","","","","","","","","","","","","","","",0,"",false
+tt0071733,"Lacombe, Lucien",1522,Lacombe Lucien,1974,"",138,"","","lacombe, lucien",1,"","","","","","","","","","","","","","",0,"",false
+tt0022150,Le Million,91,"",1931,"",91,3434.0,"",le million,"","","","","","","","","","","","","","","",0,"",false
+tt0225071,Ángél Éyés,3812,Angel Eyes,2001,"",102,"","",angel eyes,"","","","",53000000,Drama Romance Thriller,"","",5.3962,29700000,tt0225071,105,2.9715606E7,2.4174218E7,5541388.0,0,"",false
+tt0762111,Jonestown: The Life and Death of Peoples Temple,5228,"","",2006,86,5300.0,"",jonestown: the life and death of peoples temple,"","","","","","","","","","","","","","","",0,"",false
+tt0107478,Made in America,2835,"",1993,"",111,16414.0,"",made in america,"","","","","","","","","","","",30,4.4942695E7,4.4942695E7,"",0,"",false
+tt4365412,Nicé Péớplé,8548,Filip & Fredrik presenterar Trevligt folk,2015,"",100,1391.0,"",nice people,"","","","","","","","","","","","","","","",0,"",false
+tt0370263,Alien vs. Predator,4508,AVP: Alien vs. Predator,2004,"",101,192081.0,"",alien vs. predator,"","","","",70000000,Adventure Science Fiction Action,"","",12.636205,"",tt0370263,30,1.7742709E8,8.0282231E7,9.7144859E7,0,"",false
+tt0065656,Dorian Gray,1288,Das Bildnis des Dorian Gray,"",1970,101,1068.0,"",dorian gray,"","","","","","","","","","","","","","","",0,"",false
+tt0166276,Monkeybone,3583,Monkeybone,"",2001,93,"","",monkeybone,"","","","",75000000,Adventure Fantasy Animation Action Comedy,"","",8.893957,"",tt0166276,185,7622365.0,5411999.0,2210366.0,0,"",false
+tt3746824,Shéép & Wớlvés,8288,Volki i ovtsy. Beeezumnoe prevrashchenie,2016,"",85,3143.0,"",sheep & wolves,"","","","","","","","","","","","","","","",0,"",false
+tt5066056,The Wilde Wedding,8797,"",2017,"",95,2379.0,"",the wilde wedding,"","","","","","","","","","","","","","","",0,"",false
+tt0365089,The Red Colored Grey Truck,4468,Sivi kamion crvene boje,2004,"",95,5197.0,"",the red colored grey truck,"","","","","","","","","","","","","","","",0,"",false
+tt1650044,The Facility,6800,"",2012,"",80,"","",the facility,"","","","","","","","","","","","","","","",0,"",false
+tt0044716,The Holly and the Ivy,560,The Holly and the Ivy,1952,"",83,1430.0,"",the holly and the ivy,"","","","","","","","","","","","","","","",0,"",false
+tt1937449,At Any Price,7163,"",2012,"",105,7524.0,"",at any price,"","","","","","","","","","","","","","","",0,"",false
+tt0059415,Á Blớndé in Lớvé,1062,Lásky jedné plavovlásky,"",1965,88,8329.0,"",a blonde in love,"","","","","","","","","","","","","","","",0,"",false
+tt0366627,The Jacket,4475,"",2005,"",103,111491.0,"",the jacket,"","","","",29000000,Drama Mystery Thriller Fantasy,"","",12.092096,21126225,tt0366627,164,2.1126225E7,6303762.0,1.4822463E7,0,"",false
+tt0057809,36 Hours,1000,36 Hours,1964,"",115,4069.0,"",36 hours,"","","","","","","","","","","","","","","",0,"",false
+tt0365478,Man with the Screaming Brain,4470,Man with the Screaming Brain,2005,"",90,5252.0,"",man with the screaming brain,"","","","","","","","","","","","","","","",0,"",false
+tt1546653,Thé Réd Chápél,6648,Det røde kapel,2009,"",88,2010.0,"",the red chapel,"","","","","","","","","","","","","","","",0,"",false
+tt2504404,Wolf,7683,Wolf,2013,"",122,3712.0,"",wolf,"","","","","","","","","","","","","","","",0,"",false
+tt0488988,Chapter 27,5152,"",2007,"",84,10882.0,"",chapter 27,"","","","","","","","","","","","","","","",0,"",false
+tt0068935,The Way of the Dragon,1426,"","",1972,99,35727.0,"",the way of the dragon,"","","","",130000,Action Crime,"","",11.116474,"",tt0068935,"","","","",0,"",false
+tt0061401,The Big Mouth,1130,The Big Mouth,1967,"",107,1079.0,"",the big mouth,"","","","","","","","","","","","","","","",0,"",false
+tt2180994,A Good Marriage,7375,"",2014,"",102,11359.0,"",a good marriage,"","","","","","","","","","","","","","","",0,"",false
+tt0074442,Crime Busters,1597,"",1977,"",115,11206.0,"",crime busters,"","","","","","","","","","","","","","","",0,"",false
+tt1533089,Tab Hunter Confidential,6621,"",2015,"",90,3457.0,"",tab hunter confidential,"","","","","","","","","","","","","","","",0,"",false
+tt0053856,Il Generale Della Rovere,842,"",1959,"",132,3136.0,"",il generale della rovere,"","","","","","","","","","","","","","","",0,"",false
+tt0110027,Highlander: The Final Dimension,2924,Highlander III: The Sorcerer,1994,"",99,20708.0,"",highlander: the final dimension,"","","","",26000000,Action Fantasy Science Fiction,"","",6.866634,36800000,tt0110027,"","","","",0,"",false
+tt0105480,Storyville,2768,Storyville,1992,"",113,1290.0,"",storyville,"","","","","","","","","","","",193,422503.0,422503.0,"",0,"",false
+tt1139668,The Unborn,5933,"",2009,"",88,50770.0,"",the unborn,"","","","",16000000,Horror Thriller Mystery,"","",7.108555,76514050,tt1139668,78,7.651405E7,4.267041E7,3.384364E7,0,"",false
+tt0027672,Sisters of the Gion,167,"",1936,"",69,2621.0,"",sisters of the gion,"","","","","","","","","","","","","","","",0,"",false
+tt0061868,King Kong Escapes,1163,"",1967,"",104,2690.0,"",king kong escapes,"","","","","","","","","","","","","","","",0,"",false
+tt1396208,Action Replayy,6425,"",2010,"",129,6063.0,"",action replayy,"","","","","","","","","","","","","","","",0,"",false
+tt0028737,Confession,187,Confession,1937,"",87,1201.0,"",confession,"","","","","","","","","","","","","","","",0,"",false
+tt0038969,Song of the South,418,"",1946,"",94,13470.0,"",song of the south,2,1,"","","","","","","","","","","","","",0,"",false
+tt0040558,Macbeth,464,Macbeth,1948,"",107,6886.0,"",macbeth,"","","","","","","","","","","","","","","",0,"",false
+tt1738293,Khichdi: The Movie,6937,Khichdi: The Movie,2010,"",120,2414.0,"",khichdi: the movie,"","","","","","","","","","","","","","","",0,"",false
+tt0084096,The House Where Evil Dwells,1935,"",1982,"",88,1199.0,"",the house where evil dwells,"","","","","","","","","","","",118,667863.0,667863.0,"",0,"",false
+tt5212918,A Bad Idea Gone Wrong,8855,"",2017,"",85,1184.0,"",a bad idea gone wrong,"","","","","","","","","","","","","","","",0,"",false
+tt0109579,Death and the Maiden,2905,"",1994,"",103,24140.0,"",death and the maiden,"","","","","","","","","","","",158,3103716.0,3103716.0,"",0,"",false
+tt0384286,Cry Wớlf,4601,"",2005,"",90,26940.0,"",cry wolf,"","","","",1000000,Horror Thriller,"","",9.454335,"",tt0384286,130,3.2586408E7,1.0047674E7,2.2538734E7,0,"",false
+tt11143108,Oh My Kadavule,5847,Oh My Kadavule,2020,"",151,3558.0,"",oh my kadavule,"","","","","","","","","","","","","","","",0,"",false
+tt0366943,Reconstruction,4479,Reconstruction,2003,"",92,7328.0,"",reconstruction,"","","","","","","","","","","","","","","",0,"",false
+tt0242587,L.I.E.,3874,L.I.E.,2001,"",97,"","",l.i.e.,"","","","",700000,Drama,"","",8.66635,"",tt0242587,"","","","",0,"",false
+tt0405159,Milliớn Dớllár Báby,4709,"",2004,"",132,663088.0,"",million dollar baby,7,4,"","",30000000,Drama,"","",14.471373,"",tt0405159,21,2.16763646E8,1.00492203E8,1.16271443E8,0,"",false
+tt1807950,Love Likes Coincidences,7013,"",2011,"",118,18381.0,"",love likes coincidences,"","","","","","","","","","","","","","","",0,"",false
+tt0080802,Thé Gớdsénd,1811,"",1980,"",86,1072.0,"",the godsend,"","","","","","","","","","","","","","","",0,"",false
+tt0210382,Thé Wéight ớf Wátér,3764,The Weight of Water,2000,"",114,9368.0,"",the weight of water,"","","","",16000000,Crime Drama Mystery,"","",2.488424,109130,tt0210382,"","","","",0,"",false
+tt5805752,Brigsby Bear,9086,Brigsby Bear,2017,"",97,16344.0,"",brigsby bear,"","","","","","","","","","","","","","","",0,"",false
+tt4016226,Thé Résúrréctiớn ớf Jáké thé Snáké,8396,The Resurrection of Jake the Snake,2015,"",93,3074.0,"",the resurrection of jake the snake,"","","","","","","","","","","","","","","",0,"",false
+tt0035575,Yankee Doodle Dandy,338,Yankee Doodle Dandy,1942,"",126,15074.0,"",yankee doodle dandy,8,3,"","","","","","","","","","","","","",0,"",false
+tt0079985,The Secret Life of Nikola Tesla,1787,Tajna Nikole Tesle,1980,"",115,1365.0,"",the secret life of nikola tesla,"","","","","","","","","","","","","","","",0,"",false
+tt0070136,The Great Ecstasy of Woodcarver Steiner,1467,"","",1974,45,2488.0,"",the great ecstasy of woodcarver steiner,"","","","","","","","","","","","","","","",0,"",false
+tt0070222,Invasion of the Bee Girls,1472,"",1973,"",86,2717.0,"",invasion of the bee girls,"","","","","","","","","","","","","","","",0,"",false
+tt0485513,"Main, Meri Patni... Aur Woh!",5130,"",2005,"",129,2312.0,"","main, meri patni... aur woh!","","","","","","","","","","","","","","","",0,"",false
+tt2081194,Hánsél & Grétél Gét Bákéd,7281,"","",2013,86,3632.0,"",hansel & gretel get baked,"","","","","","","","","","","","","","","",0,"",false
+tt2034800,The Great Wall,7232,The Great Wall,2016,"",103,130506.0,"",the great wall,"","","","",150000000,Action Adventure Fantasy,"","",15.884744,331957105,tt2034800,27,3.34933831E8,4.554083E7,2.89393001E8,0,"",false
+tt0104706,Lessons of Darkness,2736,Lektionen in Finsternis,1992,"",54,5791.0,"",lessons of darkness,"","","","","","","","","","","","","","","",0,"",false
+tt2652948,Hostage to the Devil,7760,"",2016,"",96,1631.0,"",hostage to the devil,"","","","","","","","","","","","","","","",0,"",false
+tt0477051,Norbit,5085,Norbit,2007,"",103,72383.0,"",norbit,1,"",1,"",60000000,Comedy,"","",7.667874,95673607,tt0477051,35,1.5981449E8,9.5673607E7,6.4140883E7,0,"",false
+tt0052832,The Fugitive Kind,793,The Fugitive Kind,1960,"",119,6194.0,"",the fugitive kind,"","","","","","","","","","","","","","","",0,"",false
+tt0426627,Stoned,4839,Stoned,2005,"",102,3983.0,"",stoned,"","","","","","","","","","","","","","","",0,"",false
+tt0790636,Dallas Buyers Club,5275,Dallas Buyers Club,2013,"",117,466214.0,"",dallas buyers club,6,3,"","",5000000,Drama History,"","",14.785719,"",tt0790636,115,5.5736588E7,2.7298285E7,2.8438303E7,0,"",false
+tt1562567,Bloodwork,6663,"",2012,"",96,2255.0,"",bloodwork,"","","","","","","","","","","","","","","",0,"",false
+tt8667334,Oru Yamandan Premakadha,9802,"",2019,"",165,1029.0,"",oru yamandan premakadha,"","","","","","","","","","","","","","","",0,"",false
+tt0093822,Raising Arizona,2353,Raising Arizona,1987,"",94,133915.0,"",raising arizona,"","","","",6000000,Comedy Crime,"","",14.011415,"",tt0093822,51,2.2847564E7,2.2847564E7,"",0,"",false
+tt1368858,Thé Fớrgér,6388,"",2012,"",94,4644.0,"",the forger,"","","","","","","","","","","","","","","",0,"",false
+tt10532840,Who Killed Garrett Phillips?,5704,Who Killed Garrett Phillips?,2019,"",186,2162.0,"",who killed garrett phillips?,"","","","","","","","","","","","","","","",0,"",false
+tt2267968,Kúng Fú Pándá 3,7466,Kung Fu Panda 3,"",2016,95,146644.0,"",kung fu panda 3,"","","","",145000000,Action Adventure Animation Comedy Family,"","",14.696548,"",tt2267968,16,5.21170825E8,1.43528619E8,3.77642206E8,0,"",false
+tt1586001,Veda - Atatürk,6708,"",2010,"",114,7007.0,"",veda - ataturk,"","","","","","","","","","","",108,5.5024621E7,"",5.5024621E7,0,"",false
+tt3457508,Damascus Cover,8117,"",2017,"",93,"","",damascus cover,"","","","","","","","","","","","","","","",0,"",false
+tt0086449,To All a Goodnight,2054,"",1980,"",87,1554.0,"",to all a goodnight,"","","","","","","","","","","","","","","",0,"",false
+tt1289406,Harry Brown,6246,Harry Brown,2009,"",103,86311.0,"",harry brown,"","","","",7300000,Thriller Crime Drama Action,"","",7.478206,"",tt1289406,"","","","",0,"",false
+tt0120626,April Captains,3341,"",2000,"",123,"","",april captains,"","","","","","","","","","","","","","","",0,"",false
+tt0026725,Les Misérables,153,Les Misérables,1935,"",108,3512.0,"",les miserables,13,3,"","","","","","","","","","","","","",0,"",false
+tt1568139,You Got Served: Beat the World,6674,Beat the World,"",2011,91,1942.0,"",you got served: beat the world,"","","","","","","","","","","","","","","",0,"",false
+tt0038934,She-Wolf of London,415,"",1946,"",61,2603.0,"",she-wolf of london,"","","","","","","","","","","","","","","",0,"",false
+tt0185125,Áll Ábớút My Mớthér,3672,Todo sobre mi madre,"",1999,101,93709.0,"",all about my mother,1,1,"","",8272296,Comedy Drama,"","",10.000915,67872296,tt0185125,55,6.7872296E7,8272296.0,5.96E7,0,"",false
+tt0388419,Christmas with the Kranks,4636,Christmas with the Kranks,2004,"",99,47015.0,"",christmas with the kranks,"","","","","","","","","","","",60,9.657248E7,7.3780539E7,2.2791941E7,0,"",false
+tt5069074,Á Billiớn Livés,8799,"",2016,"",95,2818.0,"",a billion lives,"","","","","","","","","","","","","","","",0,"",false
+tt0184907,Snớw Dáy,3671,Snow Day,2000,"",89,12219.0,"",snow day,"","","","","","","","","","","",65,6.2464731E7,6.0020107E7,2444624.0,0,"",false
+tt0331811,11:14,4329,"",2003,"",86,46904.0,"",11:14,"","","","","","","","","","","","","","","",0,"",false
+tt0808510,Tooth Fairy,5311,Tooth Fairy,2010,"",101,44890.0,"",tooth fairy,"","","","",48000000,Comedy Family Fantasy,"","",6.74468,112462508,tt0808510,59,1.12462508E8,6.0022256E7,5.2440252E7,0,"",false
+tt0339727,Stateside,4368,"","",2004,97,1909.0,"",stateside,"","","","",16000000,Drama Music Romance,"","",1.054438,"",tt0339727,"","","","",0,"",false
+tt1260567,Dárk Hớúsé,6180,"",2009,"",85,2229.0,"",dark house,"","","","","","","","","","","","","","","",0,"",false
+tt0100261,Nightmare at Noon,2603,"",1988,"",96,1921.0,"",nightmare at noon,"","","","","","","","","","","","","","","",0,"",false
+tt0300028,Indian,4178,Indian,2001,"",178,2308.0,"",indian,"","","","","","","","","","","","","","","",0,"",false
+tt4497338,Interrogation,8599,Interrogation,2016,"",93,"","",interrogation,"","","","","","","","","","","","","","","",0,"",false
+tt8759834,Selah and the Spades,9816,Selah and the Spades,2019,"",97,1197.0,"",selah and the spades,"","","","","","","","","","","","","","","",0,"",false
+tt1278180,Kénny Bégins,6218,Kenny Begins,2009,"",87,1812.0,"",kenny begins,"","","","","","","","","","","","","","","",0,"",false
+tt1262406,Fading of the Cries,6184,Fading of the Cries,2008,"",94,1612.0,"",fading of the cries,"","","","","","","","","","","","","","","",0,"",false
+tt0451284,"Yớúng, Singlé & Ángry",4956,"Young, Single & Angry",2006,"",91,4030.0,"","young, single & angry","","","","","","","","","","","","","","","",0,"",false
+tt0417976,The Promise,4774,Wu ji,2005,"",121,9160.0,"",the promise,1,"","","","","","","","","","",137,3.0925693E7,669625.0,3.0256068E7,0,"",false
+tt1462014,Surviving Progress,6523,"",2011,"",86,1826.0,"",surviving progress,"","","","","","","","","","","","","","","",0,"",false
+tt7822758,Kaadan,9611,Kaadan,2021,"",170,3181.0,"",kaadan,"","","","","","","","","","","","","","","",0,"",false
+tt0106476,Brándbilén sớm försvánn,2799,"","",1993,90,1214.0,"",brandbilen som forsvann,"","","","","","","","","","","","","","","",0,"",false
+tt1386925,Thé Déád,6410,"",2010,"",105,"","",the dead,2,"","","","","","","","","","","","","","",0,"",false
+tt0093231,Hunk,2328,"",1987,"",102,1393.0,"",hunk,"","","","",0,Fantasy Comedy,"","",1.832238,"",tt0093231,153,1749956.0,1749956.0,"",0,"",false
+tt1509788,Ass Backwards,6587,"",2013,"",85,2336.0,"",ass backwards,"","","","","","","","","","","","","","","",0,"",false
+tt1501298,Kattradhu Thamizh,6572,Kattradhu Thamizh,"",2007,147,3030.0,"",kattradhu thamizh,"","","","","","","","","","","","","","","",0,"",false
+tt4846340,Hidden Figures,8715,"","",2016,127,215094.0,"",hidden figures,3,"","","",25000000,Drama,"","",16.816833,230698791,tt4846340,38,2.35956898E8,1.69607287E8,6.6349611E7,0,"",false
+tt0030287,Jézébél,214,"",1938,"",104,13070.0,"",jezebel,5,2,"","","","","","","","","","","","","",0,"",false
+tt0296658,Táké Cáré ớf My Cát,4167,Go-yang-i-leul boo-tak-hae,2001,"",112,2323.0,"",take care of my cat,"","","","","","","","","","","","","","","",0,"",false
+tt0061101,Tokyo Drifter,1115,"",1966,"",89,8456.0,"",tokyo drifter,"","","","","","","","","","","","","","","",0,"",false
+tt0110353,Lightning Jack,2946,Lightning Jack,1994,"",98,"","",lightning jack,"","","","","","","","","","","",84,1.6821273E7,1.6821273E7,"",0,"",false
+tt3531202,Pilgrimage,8169,"",2017,"",96,5264.0,"",pilgrimage,"","","","","","","","","","","","","","","",0,"",false
+tt0082263,The Devil and Max Devlin,1850,"",1981,"",96,"","",the devil and max devlin,"","","","","","","","","","","",45,1.6E7,1.6E7,"",0,"",false
+tt0052846,The Giant Gila Monster,794,"",1959,"",74,3825.0,"",the giant gila monster,"","","","","","","","","","","","","","","",0,"",false
+tt0043938,Thé Prớwlér,547,"",1951,"",92,3326.0,"",the prowler,"","","","","","","","","","","","","","","",0,"",false
+tt1247690,Serena,6164,Serena,2014,"",109,28273.0,"",serena,"","","","",0,Drama,"","",7.381098,"",tt1247690,"","","","",0,"",false
+tt3724490,Death Fighter,8271,"",2017,"",88,1075.0,"",death fighter,"","","","","","","","","","","","","","","",0,"",false
+tt0093565,Moonstruck,2341,Moonstruck,"",1987,102,56362.0,"",moonstruck,6,3,"","",0,Comedy Drama Romance,"","",12.877291,"",tt0093565,5,8.0640528E7,8.0640528E7,"",0,"",false
+tt0327643,Dirty Love,4310,Dirty Love,2005,"",91,7090.0,"",dirty love,"","",1,1,"","","","","","","","","","","",0,"",false
+tt0051980,The Ballad of Narayama,758,"","",1958,98,3211.0,"",the ballad of narayama,"","","","","","","","","","","","","","","",0,"",false
+tt4966046,Awaken the Shadowman,8763,Awaken the Shadowman,2017,"",90,3451.0,"",awaken the shadowman,"","","","","","","","","","","","","","","",0,"",false
+tt0889652,Rớmán dé gáré,5440,"",2007,"",103,2497.0,"",roman de gare,"","","","","","","","","","","","","","","",0,"",false
+tt1296869,The Keeper,6262,The Keeper,2009,"",94,4499.0,"",the keeper,"","","","","","","","","","","","","","","",0,"",false
+tt0267261,Black Angel,4020,Senso '45,2002,"",128,1846.0,"",black angel,"","","","","","","","","","","","","","","",0,"",false
+tt0100079,Luther the Geek,2592,"",1989,"",80,"","",luther the geek,"","","","","","","","","","","","","","","",0,"",false
+tt0806147,Extreme Movie,5304,"",2008,"",86,"","",extreme movie,"","","","","","","","","","","","","","","",0,"",false
+tt0104969,The Naked Truth,2750,"",1992,"",92,1346.0,"",the naked truth,"","","","","","","","","","","","","","","",0,"",false
+tt1891905,Séá Lévél,7118,"","",2011,93,1095.0,"",sea level,"","","","","","","","","","","","","","","",0,"",false
+tt0190611,Captain Pantoja and the Special Services,3699,Pantaleón y las visitadoras,1999,"",137,2471.0,"",captain pantoja and the special services,"","","","","","","","","","","","","","","",0,"",false
+tt2190467,Safelight,7384,Safelight,2015,"",84,1947.0,"",safelight,"","","","","","","","","","","","","","","",0,"",false
+tt6273736,Vanishing Time: A Boy Who Returned,9239,"",2016,"",130,1765.0,"",vanishing time: a boy who returned,"","","","","","","","","","","","","","","",0,"",false
+tt2368672,Minuscule: Valley of the Lost Ants,7567,"",2013,"",89,8125.0,"",minuscule: valley of the lost ants,"","","","",19700000,Animation Adventure Family,"","",6.583428,"",tt2368672,"","","","",0,"",false
+tt6676028,In a Relationship,9351,"",2018,"",92,2475.0,"",in a relationship,"","","","","","","","","","","","","","","",0,"",false
+tt0398839,Cattle Call,4677,Cattle Call,2006,"",83,1184.0,"",cattle call,"","","","","","","","","","","","","","","",0,"",false
+tt0321781,Cremaster 3,4285,Cremaster 3,2002,"",182,1434.0,"",cremaster 3,"","","","","","","","","","","","","","","",0,"",false
+tt1662293,Nothing Left to Fear,6822,Nothing Left to Fear,2013,"",100,4941.0,"",nothing left to fear,"","","","",3000000,Horror,"","",5.317284,"",tt1662293,"","","","",0,"",false
+tt0396659,InuYasha the Movie 3: Swords of an Honorable Ruler,4666,Inuyasha - Tenka hadou no ken,2003,"",99,2156.0,"",inuyasha the movie 3: swords of an honorable ruler,"","","","","","","","","","","","","","","",0,"",false
+tt0816258,Pokiri,5330,Pokiri,"",2006,164,13678.0,"",pokiri,"","","","","","","","","","","","","","","",0,"",false
+tt0305711,Just Married,4208,Just Married,2003,"",95,69819.0,"",just married,"","","","",18000000,Comedy,"","",6.001152,"",tt0305711,54,1.01564935E8,5.6127162E7,4.5437773E7,0,"",false
+tt1615075,Suing the Devil,6755,"",2011,"",106,3989.0,"",suing the devil,"","","","","","","","","","","","","","","",0,"",false
+tt0044091,Superman and the Mole-Men,551,"",1951,"",58,1953.0,"",superman and the mole-men,"","","","","","","","","","","","","","","",0,"",false
+tt0070820,Journey of the Hyena,1495,Touki-Bouki,1973,"",85,3022.0,"",journey of the hyena,"","","","","","","","","","","","","","","",0,"",false
+tt0081534,Somewhere in Time,1828,Somewhere in Time,1980,"",103,28332.0,"",somewhere in time,1,"","","","","","","","","","",63,9709597.0,9709597.0,"",0,"",false
+tt5460658,Life and a Day,8936,Abad va yek rooz,"",2016,112,12956.0,"",life and a day,"","","","","","","","","","","","","","","",0,"",false
+tt0350194,Teacher's Pet,4405,Teacher's Pet,2004,"",73,1750.0,"",teacher's pet,2,"","","","","","","","","","","","","","",0,"",false
+tt2317524,12 Rounds 2: Reloaded,7514,"",2013,"",95,5546.0,"",12 rounds 2: reloaded,"","","","","","","","","","","","","","","",0,"",false
+tt0095916,Promised Land,2445,"",1987,"",102,1341.0,"",promised land,"","","","",0,Drama Romance,"","",0.809129,"",tt0095916,"","","","",0,"",false
+tt7026666,Kurup,9427,"",2021,"",140,5446.0,"",kurup,"","","","","","","","","","","","","","","",0,"",false
+tt0252488,Thé Cháớs Cláss Fáiléd thé Cláss,3932,"",1976,"",91,22862.0,"",the chaos class failed the class,"","","","","","","","","","","","","","","",0,"",false
+tt0465551,Notes on a Scandal,5025,Notes on a Scandal,2006,"",92,76910.0,"",notes on a scandal,4,"","","",15000000,Drama Romance,"","",8.593087,"",tt0465551,105,4.9814392E7,1.7510118E7,3.2304274E7,0,"",false
+tt0079579,Moscow Does Not Believe in Tears,1771,Moskva slezam ne verit,1980,"",150,12421.0,"",moscow does not believe in tears,1,1,"","","","","","","","","","","","","",0,"",false
+tt0045814,A Geisha,588,"",1953,"",85,2009.0,"",a geisha,"","","","","","","","","","","","","","","",0,"",false
+tt0101264,"Abraxas, Guardian of the Universe",2625,"",1990,"",90,2053.0,"","abraxas, guardian of the universe","","","","","","","","","","","","","","","",0,"",false
+tt0130216,The Redeemer: Son of Satan!,3419,The Redeemer: Son of Satan!,1978,"",84,1050.0,"",the redeemer: son of satan!,"","","","","","","","","","","","","","","",0,"",false
+tt0326208,Stándér,4296,"",2003,"",111,8536.0,"",stander,"","","","",0,Action Crime Drama,"","",7.839675,"",tt0326208,"","","","",0,"",false
+tt0270707,The Truth About Charlie,4037,The Truth About Charlie,"",2002,104,10364.0,"",the truth about charlie,"","","","","","","","","","","","","","","",0,"",false
+tt7615722,Thé Légénd ớf Hállớwáiián,9570,"",2018,"",82,1371.0,"",the legend of hallowaiian,"","","","","","","","","","","","","","","",0,"",false
+tt0099108,Basket Case 2,2555,Basket Case 2,1990,"",90,4814.0,"",basket case 2,"","","","","","","","","","","","","","","",0,"",false
+tt1204977,Ouija,6085,"",2014,"",89,51196.0,"",ouija,"","","","",5000000,Horror,"","",13.288564,"",tt1204977,72,1.03590271E8,5.085601E7,5.2734261E7,0,"",false
+tt0102782,Return to the Blue Lagoon,2677,Return to the Blue Lagoon,1991,"",102,19372.0,"",return to the blue lagoon,"","",1,"",11000000,Adventure,"","",8.929393,2807854,tt0102782,140,2807854.0,2807854.0,"",0,"",false
+tt1233461,Miracle of Giving Fool,6129,"",2008,"",99,1447.0,"",miracle of giving fool,"","","","","","","","","","","","","","","",0,"",false
+tt3547306,Cut Throat City,8179,"",2020,"",123,2303.0,"",cut throat city,"","","","","","","","","","","","","","","",0,"",false
+tt10244008,Ghost,5628,"",2020,"",85,1650.0,"",ghost,5,2,"","","","","","","","","","","","","",0,"",false
+tt5767628,Kill 'Em All,9068,"",2017,"",100,2470.0,"",kill 'em all,"","","","","","","","","","","","","","","",0,"",false
+tt0477273,Summer Rain,5089,El camino de los ingleses,2006,"",118,1187.0,"",summer rain,"","","","","","","","","","","","","","","",0,"",false
+tt0103295,Swordsman II,2698,"",1992,"",112,4297.0,"",swordsman ii,"","","","","","","","","","","","","","","",0,"",false
+tt0122883,Woe to the Young,3377,"",1961,"",87,1247.0,"",woe to the young,"","","","","","","","","","","","","","","",0,"",false
+tt9015188,Bumperkleef,9863,Bumperkleef,2019,"",86,2927.0,"",bumperkleef,"","","","","","","","","","","","","","","",0,"",false
+tt0407236,Lunacy,4715,"",2005,"",118,3671.0,"",lunacy,"","","","","","","","","","","","","","","",0,"",false
+tt0313670,Sweet Sixteen,4249,Sweet Sixteen,2002,"",106,14949.0,"",sweet sixteen,"","","","","","","","","","","","","","","",0,"",false
+tt0366996,The Saddest Music in the World,4480,"",2003,"",100,"","",the saddest music in the world,"","","","","","","","","","","","","","","",0,"",false
+tt0068284,Blácúlá,1398,"",1972,"",93,6493.0,"",blacula,"","","","","","","","","","","","","","","",0,"",false
+tt0054691,Bloodlust!,884,Bloodlust!,1961,"",68,2426.0,"",bloodlust!,"","","","","","","","","","","","","","","",0,"",false
+tt0357054,The Last Shot,4425,The Last Shot,2004,"",93,4239.0,"",the last shot,"","","","","","","","","","","","","","","",0,"",false
+tt0008663,A Man There Was,1,Terje Vigen,1917,"",65,1882.0,"",a man there was,"","","","","","","","","","","","","","","",0,"",false
+tt0211946,Berlin Calling,3775,Berlin Calling,2008,"",109,14241.0,"",berlin calling,"","","","","","","","","","","","","","","",0,"",false
+tt0040369,Fort Apache,457,"","",1948,128,17420.0,"",fort apache,"","","","",2500000,Western,"","",5.499979,"",tt0040369,"","","","",0,"",false
+tt0062671,The Anniversary,1187,"",1968,"",95,2537.0,"",the anniversary,"","","","","","","","","","","","","","","",0,"",false
+tt0058439,Forest of the Hanged,1027,"",1965,"",154,"","",forest of the hanged,"","","","","","","","","","","","","","","",0,"",false
+tt0096332,The Unbearable Lightness of Being,2465,"",1988,"",171,35301.0,"",the unbearable lightness of being,2,"","","",17000000,Comedy Romance,"","",6.815147,10006806,tt0096332,88,1.0006806E7,1.0006806E7,"",0,"",false
+tt0116839,Lawnmower Man 2: Beyond Cyberspace,3166,"",1996,"",93,9451.0,"",lawnmower man 2: beyond cyberspace,"","","","",0,Action Science Fiction,"","",2.49535,"",tt0116839,178,2409225.0,2409225.0,"",0,"",false
+tt8061070,My Step Dad: The Hippie,9675,Cici Babam,2018,"",99,1641.0,"",my step dad: the hippie,"","","","","","","","","","","","","","","",0,"",false
+tt0119097,Fakin' Da Funk,3258,Fakin' Da Funk,1997,"",89,2470.0,"",fakin' da funk,"","","","","","","","","","","","","","","",0,"",false
+tt8951058,The Panama Papers,9845,The Panama Papers,2018,"",96,1428.0,"",the panama papers,"","","","","","","","","","","","","","","",0,"",false
+tt5092380,A Breath Away,8810,"",2018,"",89,6298.0,"",a breath away,"","","","","","","","","","","","","","","",0,"",false
+tt4914580,The Age of Shadows,8745,Mil-jeong,2016,"",140,9499.0,"",the age of shadows,"","","","","","","","","","","",116,5.4491162E7,541719.0,5.3949443E7,0,"",false
+tt0058279,Kwáidán,1019,Kaidan,"",1964,183,16871.0,"",kwaidan,1,"","","","","","","","","","","","","","",0,"",false
+tt0019901,Woman in the Moon,75,"",1929,"",156,"","",woman in the moon,"","","","","","","","","","","","","","","",0,"",false
+tt5168832,After Porn Ends 2,8844,After Porn Ends 2,2017,"",90,2585.0,"",after porn ends 2,"","","","","","","","","","","","","","","",0,"",false
+tt0825232,Thé Búckét List,5351,"",2007,"",97,239334.0,"",the bucket list,"","","","",45000000,Drama Comedy,"","",9.070643,"",tt0825232,30,1.75372502E8,9.3466502E7,8.1906E7,0,"",false
+tt5566778,Island Zero,8983,"",2018,"",99,1346.0,"",island zero,"","","","","","","","","","","","","","","",0,"",false
+tt0359950,The Secret Life of Walter Mitty,4437,The Secret Life of Walter Mitty,2013,"",114,306014.0,"",the secret life of walter mitty,"","","","",90000000,Adventure Comedy Drama Fantasy,"","",8.684892,188133322,tt0359950,41,1.88133322E8,5.8236838E7,1.29896484E8,0,"",false
+tt0039973,The Web,451,The Web,1947,"",87,"","",the web,"","","","","","","","","","","","","","","",0,"",false
+tt2936180,Far from Men,7873,Loin des hommes,2014,"",101,7797.0,"",far from men,"","","","","","","","","","","","","","","",0,"",false
+tt0893509,Blonde and Blonder,5449,Blonde and Blonder,2008,"",95,"","",blonde and blonder,"","","","","","","","","","","","","","","",0,"",false
+tt0498381,Rings,5203,Rings,2017,"",102,39692.0,"",rings,"","","","",25000000,Horror,"","",24.535732,83080890,tt0498381,85,8.308089E7,2.7793018E7,5.5287872E7,0,"",false
+tt3041550,Matangi/Maya/M.I.A,7924,"",2018,"",96,2042.0,"",matangi/maya/m.i.a,"","","","","","","","","","","","","","","",0,"",false
+tt0785006,Hớtél fớr Dớgs,5268,"",2009,"",100,22847.0,"",hotel for dogs,"","","","",35000000,Comedy Family,"","",6.317992,"",tt0785006,50,1.17252578E8,7.303446E7,4.4218118E7,0,"",false
+tt2437548,Goodbye to All That,7646,"",2014,"",87,2358.0,"",goodbye to all that,"","","","","","","","","","","","","","","",0,"",false
+tt0050803,Thé Ớné Thát Gớt Áwáy,729,The One That Got Away,"",1957,111,1971.0,"",the one that got away,"","","","","","","","","","","","","","","",0,"",false
+tt0105107,Pássiớn Fish,2755,"",1992,"",135,5475.0,"",passion fish,2,"","","","","","","","","","",120,4814619.0,4814619.0,"",0,"",false
+tt3541524,Line of Duty,8175,Line of Duty,2019,"",98,6728.0,"",line of duty,"","","","","","","","","","","","","","","",0,"",false
+tt4143508,Lớng Strángé Trip,8452,"",2017,"",238,1586.0,"",long strange trip,"","","","","","","","","","","","","","","",0,"",false
+tt0070359,The Mother and the Whore,1477,"",1973,"",217,5356.0,"",the mother and the whore,"","","","","","","","","","","","","","","",0,"",false
+tt0067800,Stráw Dớgs,1375,"",1971,"",113,58733.0,"",straw dogs,1,"","","",2200000,Crime Drama Thriller Mystery,"","",6.632663,3251794,tt0067800,"","","","",0,"",false
+tt5803528,100% Cớcớ,9082,100% Coco,2017,"",88,1187.0,"",100% coco,"","","","","","","","","","","","","","","",0,"",false
+tt1462411,Big Sur,6524,Big Sur,"",2013,81,"","",big sur,"","","","",0,Drama,"","",2.76283,"",tt1462411,"","","","",0,"",false
+tt0354575,The Five Obstructions,4420,"",2003,"",90,8482.0,"",the five obstructions,"","","","","","","","","","","","","","","",0,"",false
+tt1374989,Pridé ánd Préjúdicé ánd Zớmbiés,6396,Pride and Prejudice and Zombies,2016,"",108,54584.0,"",pride and prejudice and zombies,"","","","",28000000,Romance Horror Comedy Thriller,"","",7.954623,16374328,tt1374989,"","","","",0,"",false
+tt2007413,Quick,7217,Kwik,2011,"",115,1113.0,"",quick,"","","","","","","","","","","",192,2.1561934E7,"",2.1561934E7,0,"",false
+tt1636780,Gintama: The Movie,6782,Gekijôban Gintama: Shin'yaku Benizakura hen,"",2010,96,1784.0,"",gintama: the movie,"","","","","","","","","","","","","","","",0,"",false
+tt16058566,Ớớriki Úttháráná,6738,Ooriki Uttharana,"",2021,122,1100.0,"",ooriki uttharana,"","","","","","","","","","","","","","","",0,"",false
+tt0464154,Piranha 3D,5023,"",2010,"",88,88700.0,"",piranha 3d,"","","","",24000000,Comedy Horror,"","",8.212132,"",tt0464154,77,8.3188165E7,2.5003155E7,5.818501E7,0,"",false
+tt2401807,Rage,7616,Tokarev,2014,"",98,24136.0,"",rage,"","","","","","","","","","","","","","","",0,"",false
+tt0113851,Moonlight and Valentino,3057,"",1995,"",105,3672.0,"",moonlight and valentino,"","","","","","","","","","","",178,2484226.0,2484226.0,"",0,"",false
+tt2172071,Student of the Year,7357,Student of the Year,2012,"",146,17079.0,"",student of the year,"","","","","","","","","","","","","","","",0,"",false
+tt0351299,Blind Shaft,4410,Mang jing,2003,"",92,2620.0,"",blind shaft,"","","","","","","","","","","","","","","",0,"",false
+tt0466713,Military Academy,5031,Kein Bund fürs Leben,2007,"",85,1469.0,"",military academy,"","","","","","","","","","","","","","","",0,"",false
+tt0097240,Drugstore Cowboy,2484,"",1989,"",101,36014.0,"",drugstore cowboy,"","","","",2500000,Crime Drama,"","",8.026112,"",tt0097240,113,4729352.0,4729352.0,"",0,"",false
+tt10288566,Another Round,5639,"",2020,"",117,120802.0,"",another round,"","","","","","","","","","","",91,1.2733781E7,"",1.2733781E7,0,"",false
+tt0172543,Hé Diéd with á Féláfél in His Hánd,3616,"",2001,"",107,3561.0,"",he died with a felafel in his hand,"","","","","","","","","","","","","","","",0,"",false
+tt0051077,Thé Thréé Fácés ớf Évé,737,"",1957,"",91,7672.0,"",the three faces of eve,1,1,"","","","","","","","","","","","","",0,"",false
+tt4341582,Queen of Katwe,8543,Queen of Katwe,2016,"",124,16760.0,"",queen of katwe,"","","","",15000000,Drama,"","",6.164561,"",tt4341582,"","","","",0,"",false
+tt6951892,Samson,9411,"",2018,"",110,4459.0,"",samson,"","","","","","","","","","","","","","","",0,"",false
+tt0775539,Stomp the Yard,5249,Stomp the Yard,2007,"",115,25394.0,"",stomp the yard,"","","","",13000000,Drama Music,"","",5.607508,"",tt0775539,77,7.5511123E7,6.1356221E7,1.4154902E7,0,"",false
+tt0092225,Wisdom,2275,"",1986,"",109,3308.0,"",wisdom,"","","","","","","","","","","","","","","",0,"",false
+tt0075229,Sky Riders,1634,"",1976,"",91,1014.0,"",sky riders,"","","","","","","","","","","","","","","",0,"",false
+tt0375997,Nandha,4539,"",2001,"",165,2285.0,"",nandha,"","","","","","","","","","","","","","","",0,"",false
+tt1431045,Deadpool,6482,"",2016,"",108,963644.0,"",deadpool,"","","","",58000000,Action Adventure Comedy,"","",187.86049,783112979,tt1431045,9,7.82612155E8,3.63070709E8,4.19541446E8,0,"",false
+tt0057058,The Fire Within,973,Le feu follet,"",1963,108,9095.0,"",the fire within,"","","","","","","","","","","","","","","",0,"",false
+tt0051525,Thé Défiánt Ớnés,747,"",1958,"",96,14569.0,"",the defiant ones,9,2,"","","","","","","","","","","","","",0,"",false
+tt0144084,American Psycho,3490,American Psycho,2000,"",101,536979.0,"",american psycho,"","","","",7000000,Thriller Drama Crime,"","",13.686715,"",tt0144084,95,3.4266564E7,1.5070285E7,1.9196279E7,0,"",false
+tt0308514,Lớst in Lá Mánchá,4228,"",2002,"",93,11578.0,"",lost in la mancha,"","","","","","","","","","","","","","","",0,"",false
+tt0794399,We're All Christs,5280,Wszyscy jestesmy Chrystusami,2006,"",107,2458.0,"",we're all christs,"","","","","","","","","","","","","","","",0,"",false
+tt0181960,After the Rain,3662,"","",1999,91,4048.0,"",after the rain,"","","","","","","","","","","","","","","",0,"",false
+tt7282468,Burning,9483,Beoning,2018,"",148,58476.0,"",burning,"","","","","","","","","","","","","","","",0,"",false
+tt7403570,Two Tails,9525,"","",2018,75,1146.0,"",two tails,"","","","","","","","","","","","","","","",0,"",false
+tt0259308,Felix the Cat: The Movie,3973,"",1988,"",82,1444.0,"",felix the cat: the movie,"","","","",9000000,Animation Family,"","",0.030576,"",tt0259308,"","","","",0,"",false
+tt0051383,Auntie Mame,741,Auntie Mame,1958,"",143,11047.0,"",auntie mame,6,"","","","","","","","","","","","","","",0,"",false
+tt1836974,Ecstasy of Order: The Tetris Masters,7056,Ecstasy of Order: The Tetris Masters,2011,"",93,1508.0,"",ecstasy of order: the tetris masters,"","","","","","","","","","","","","","","",0,"",false
+tt5483626,Enai Noki Paayum Thota,8952,"",2019,"",153,1713.0,"",enai noki paayum thota,"","","","","","","","","","","","","","","",0,"",false
+tt0091993,SpaceCamp,2269,SpaceCamp,1986,"",107,14780.0,"",spacecamp,"","","","",18000000,Family Adventure,"","",6.41742,9697739,tt0091993,74,9697739.0,9697739.0,"",0,"",false
+tt1183917,Teen Patti,6037,Teen Patti,2010,"",142,1509.0,"",teen patti,"","","","","","","","","","","","","","","",0,"",false
+tt0913354,Armored,5471,"",2009,"",88,30482.0,"",armored,"","","","",20000000,Action Crime Drama Thriller,"","",9.951662,"",tt0913354,178,2.2942221E7,1.5988876E7,6953345.0,0,"",false
+tt3910416,Escape Artist,8359,Escape Artist,"",2017,106,"","",escape artist,"","","","","","","","","","","","","","","",0,"",false
+tt0061557,The Deadly Bees,1141,The Deadly Bees,1966,"",84,1977.0,"",the deadly bees,"","","","","","","","","","","","","","","",0,"",false
+tt0106753,Doppelganger,2807,"",1993,"",104,3670.0,"",doppelganger,"","","","","","","","","","","","","","","",0,"",false
+tt1073105,The Descent: Part 2,5749,"","",2009,94,46214.0,"",the descent: part 2,"","","","","","","","","","","","","","","",0,"",false
+tt0234354,Novocaine,3834,"",2001,"",95,11009.0,"",novocaine,"","","","",6000000,Comedy Crime Thriller,"","",3.916221,"",tt0234354,"","","","",0,"",false
+tt0085913,Masoom,2016,Masoom,1983,"",165,3938.0,"",masoom,"","","","","","","","","","","","","","","",0,"",false
+tt0099364,The Dark Side of the Moon,2562,The Dark Side of the Moon,1990,"",91,2424.0,"",the dark side of the moon,"","","","","","","","","","","","","","","",0,"",false
+tt0098519,Troop Beverly Hills,2548,"",1989,"",105,10046.0,"",troop beverly hills,"","","","","","","","","","","",91,8508843.0,8508843.0,"",0,"",false
+tt1740476,Bútchér Bớys,6938,Butcher Boys,2012,"",86,1567.0,"",butcher boys,"","","","","","","","","","","","","","","",0,"",false
+tt0060877,Qúéén ớf Blớớd,1111,"",1966,"",78,1851.0,"",queen of blood,"","","","","","","","","","","","","","","",0,"",false
+tt7342838,Leto,9505,Leto,"",2018,126,6756.0,"",leto,"","","","","","","","","","","","","","","",0,"",false
+tt0899106,Love Happens,5454,"",2009,"",109,32508.0,"",love happens,"","","","",18000000,Drama Romance,"","",10.279603,"",tt0899106,138,3.6088028E7,2.296511E7,1.3122918E7,0,"",false
+tt6537508,Behen Hogi Teri,9314,"",2017,"",128,2023.0,"",behen hogi teri,"","","","","","","","","","","","","","","",0,"",false
+tt0074901,Mikey and Nicky,1623,"",1976,"",106,4900.0,"",mikey and nicky,"","","","","","","","","","","","","","","",0,"",false
+tt0425489,The Die Is Cast,4830,"",2005,"",97,1035.0,"",the die is cast,"","","","","","","","","","","","","","","",0,"",false
+tt4185572,The Hunting Ground,8476,The Hunting Ground,2015,"",103,6239.0,"",the hunting ground,1,"","","",0,Documentary,"","",2.408677,"",tt4185572,"","","","",0,"",false
+tt16298620,Súndárángúdú,6777,Sundarangudu,2021,"","",1488.0,"",sundarangudu,"","","","","","","","","","","","","","","",0,"",false
+tt3398252,Samurai Cop 2: Deadly Vengeance,8091,"",2015,"",94,4447.0,"",samurai cop 2: deadly vengeance,"","","","","","","","","","","","","","","",0,"",false
+tt2304933,The 5th Wave,7502,The 5th Wave,2016,"",112,105518.0,"",the 5th wave,"","","","",38000000,Adventure Science Fiction,"","",10.788263,"",tt2304933,"","","","",0,"",false
+tt6083648,Looking Glass,9181,Looking Glass,"",2018,103,6424.0,"",looking glass,"","","","","","","","","","","","","","","",0,"",false
+tt0067409,Máx ánd thé Júnkmén,1361,Max et les ferrailleurs,1971,"",112,2491.0,"",max and the junkmen,"","","","","","","","","","","","","","","",0,"",false
+tt0251355,Pushpaka Vimana,3922,Pushpaka Vimana,1987,"",125,3416.0,"",pushpaka vimana,"","","","","","","","","","","","","","","",0,"",false
+tt0094901,Compagni di scuola,2403,Compagni di scuola,1988,"",115,2250.0,"",compagni di scuola,"","","","","","","","","","","","","","","",0,"",false
+tt0456041,Anche libero va bene,4984,"",2006,"",108,"","",anche libero va bene,"","","","","","","","","","","","","","","",0,"",false
+tt0098156,R.O.T.O.R.,2530,R.O.T.O.R.,1987,"",90,3352.0,"",r.o.t.o.r.,"","","","","","","","","","","","","","","",0,"",false
+tt5735280,It Stains the Sands Red,9058,It Stains the Sands Red,"",2016,92,4837.0,"",it stains the sands red,"","","","","","","","","","","","","","","",0,"",false
+tt0057171,"Yesterday, Today and Tomorrow",976,Ieri oggi domani,1963,"",114,8665.0,"","yesterday, today and tomorrow",1,1,"","","","","","","","","","","","","",0,"",false
+tt0058500,The Pumpkin Eater,1031,The Pumpkin Eater,1964,"",118,2405.0,"",the pumpkin eater,1,"","","","","","","","","","","","","","",0,"",false
+tt0364986,Bén & Árthúr,4467,"",2002,"",85,7899.0,"",ben & arthur,"","","","","","","","","","","","","","","",0,"",false
+tt0064148,The Chairman,1241,The Chairman,1969,"",93,1217.0,"",the chairman,"","","","","","","","","","","","","","","",0,"",false
+tt2316479,Blúé Igúáná,7513,Blue Iguana,2018,"",100,2794.0,"",blue iguana,"","","","","","","","","","","","","","","",0,"",false
+tt0048491,Picnic,653,"",1955,"",115,8559.0,"",picnic,6,2,"","","","","","","","","","","","","",0,"",false
+tt1425252,The Crypt,6472,"",2009,"",84,1235.0,"",the crypt,"","","","","","","","","","","","","","","",0,"",false
+tt0182730,The Lady and the Tramp,3665,I arhontisa ki o alitis,1968,"",109,1159.0,"",the lady and the tramp,"","","","","","","","","","","","","","","",0,"",false
+tt6878378,Vivegam,9403,"",2017,"",149,11738.0,"",vivegam,"","","","","","","","","","","","","","","",0,"",false
+tt0087130,DEFCON-4,2083,"",1985,"",88,1947.0,"",defcon-4,"","","","","","","","","","","",151,1057064.0,1057064.0,"",0,"",false
+tt0088009,A Year of the Quiet Sun,2114,"",1984,"",110,1243.0,"",a year of the quiet sun,"","","","","","","","","","","","","","","",0,"",false
+tt2126235,Collide,7333,"",2016,"",99,15893.0,"",collide,"","","","",21500000,Thriller Action,"","",31.314013,4811525,tt2126235,"","","","",0,"",false
+tt3732950,Body,8276,"",2015,"",75,2067.0,"",body,"","","","","","","","","","","","","","","",0,"",false
+tt0390080,Harry + Max,4643,Harry + Max,2004,"",74,1068.0,"",harry + max,"","","","","","","","","","","","","","","",0,"",false
+tt1046936,Húrt,5687,"",2009,"",97,1543.0,"",hurt,"","","","","","","","","","","","","","","",0,"",false
+tt7823906,Pớlitics,9612,"",2019,"",134,1068.0,"",politics,"","","","","","","","","","","","","","","",0,"",false
+tt0018839,The Docks of New York,65,"",1928,"",76,4339.0,"",the docks of new york,"","","","","","","","","","","","","","","",0,"",false
+tt0128292,Buttoners,3408,Knoflíkári,1997,"",102,1705.0,"",buttoners,"","","","","","","","","","","","","","","",0,"",false
+tt1504300,The Parking Lot Movie,6577,"",2010,"",74,1952.0,"",the parking lot movie,"","","","","","","","","","","","","","","",0,"",false
+tt2082197,Barfi!,7285,Barfi!,2012,"",151,"","",barfi!,"","","","",4437508,Drama Romance Comedy,"","",3.779077,2804874,tt2082197,"","","","",0,"",false
+tt2396721,The Scribbler,7610,"",2014,"",88,4918.0,"",the scribbler,"","","","","","","","","","","","","","","",0,"",false
+tt1295060,Thé Pớlicémán ớf thé 16th Précinct,6260,O Ilias tou 16ou,2008,"",100,1408.0,"",the policeman of the 16th precinct,"","","","","","","","","","","","","","","",0,"",false
+tt0419704,Donkey Xote,4779,"",2007,"",90,2135.0,"",donkey xote,"","","","","","","","","","","","","","","",0,"",false
+tt0120550,Zeus and Roxanne,3334,"",1997,"",98,3024.0,"",zeus and roxanne,"","","","","","","","","","","",132,7233324.0,7233324.0,"",0,"",false
+tt3065204,The Conjuring 2,7936,"",2016,"",134,253481.0,"",the conjuring 2,"","","","",40000000,Horror,"","",14.767317,320170008,tt3065204,29,3.20392818E8,1.02470008E8,2.1792281E8,0,"",false
+tt0844457,North Face,5387,Nordwand,2008,"",126,15457.0,"",north face,"","","","",0,Adventure Drama Action History Thriller,"","",5.260798,"",tt0844457,"","","","",0,"",false
+tt0469045,Broken,5042,Broken,"",2006,97,1485.0,"",broken,"","","","","","","","","","","","","","","",0,"",false
+tt1655460,Wanderlust,6812,Wanderlust,2012,"",98,75063.0,"",wanderlust,"","","","",35000000,Comedy,"","",9.295078,"",tt1655460,189,2.3812816E7,1.7450535E7,6362281.0,0,"",false
+tt10675136,Hell House LLC III: Lake of Fire,5736,"",2019,"",85,2794.0,"",hell house llc iii: lake of fire,"","","","","","","","","","","","","","","",0,"",false
+tt0910970,WALL·E,5467,"",2008,"",98,1054233.0,"",walle,"","","","",180000000,Animation Family,"","",16.088366,521311860,tt0910970,9,5.2131186E8,2.23808164E8,2.97503696E8,0,"",false
+tt0084745,Swamp Thing,1967,Swamp Thing,1982,"",91,13957.0,"",swamp thing,"","","","","","","","","","","","","","","",0,"",false
+tt5956100,Tiger Zinda Hai,9140,"",2017,"",161,27585.0,"",tiger zinda hai,"","","","","","","","","","","",82,8.732E7,5560921.0,8.1759079E7,0,"",false
+tt1329177,K-11,6319,"",2012,"",88,1670.0,"",k-11,"","","","","","","","","","","","","","","",0,"",false
+tt1527186,Melancholia,6612,Melancholia,"",2011,135,175910.0,"",melancholia,"","","","",7400000,Drama Science Fiction,"","",8.124767,"",tt1527186,"","","","",0,"",false
+tt1046930,Headless Horseman,5686,Headless Horseman,2007,"",87,1076.0,"",headless horseman,"","","","","","","","","","","","","","","",0,"",false
+tt0119055,The Eighteenth Angel,3253,The Eighteenth Angel,1997,"",95,1590.0,"",the eighteenth angel,"","","","","","","","","","","","","","","",0,"",false
+tt12537774,"Sex, Drugs & Bicycles",6171,"Sex, Drugs & Bicycles",2020,"",86,1091.0,"","sex, drugs & bicycles","","","","","","","","","","","","","","","",0,"",false
+tt0094929,Curse II: The Bite,2404,"",1989,"",98,1334.0,"",curse ii: the bite,"","","","","","","","","","","","","","","",0,"",false
+tt1219289,Limitléss,6104,"",2011,"",105,549738.0,"",limitless,"","","","",27000000,Thriller Mystery Science Fiction,"","",12.114955,"",tt1219289,46,1.61849455E8,7.9249455E7,8.26E7,0,"",false
+tt2145829,Robot Overlords,7339,Robot Overlords,2014,"",90,"","",robot overlords,"","","","","","","","","","","","","","","",0,"",false
+tt2948266,Dealin' with Idiots,7878,Dealin' with Idiots,2013,"",88,1367.0,"",dealin' with idiots,"","","","","","","","","","","","","","","",0,"",false
+tt0037024,The Lodger,366,"",1944,"",84,3429.0,"",the lodger,"","","","","","","","","","","","","","","",0,"",false
+tt8923484,Crip Camp,9842,"",2020,"",106,6990.0,"",crip camp,"","","","","","","","","","","","","","","",0,"",false
+tt1203517,The Graves,6082,The Graves,2009,"",88,2077.0,"",the graves,"","","","","","","","","","","","","","","",0,"",false
+tt0041746,Pinky,495,"",1949,"",102,2986.0,"",pinky,3,"","","","","","","","","","","","","","",0,"",false
+tt0968712,Zérớ. Lilác Lithúániá,5527,"",2006,"",82,2297.0,"",zero. lilac lithuania,"","","","","","","","","","","","","","","",0,"",false
+tt0039090,No Regrets for Our Youth,422,"",1946,"",110,3366.0,"",no regrets for our youth,"","","","","","","","","","","","","","","",0,"",false
+tt0031826,The Private Lives of Elizabeth and Essex,243,The Private Lives of Elizabeth and Essex,1939,"",106,5507.0,"",the private lives of elizabeth and essex,5,"","","","","","","","","","","","","","",0,"",false
+tt0271857,Vátsályám,4047,"",1993,"",156,2833.0,"",vatsalyam,"","","","","","","","","","","","","","","",0,"",false
+tt1453405,Mớnstérs Únivérsity,6514,Monsters University,2013,"",104,341179.0,"",monsters university,"","","","",200000000,Animation Family,"","",16.267502,"",tt1453405,7,7.43559607E8,2.68492764E8,4.75066843E8,0,"",false
+tt0037595,Christmás in Cớnnécticút,382,Christmas in Connecticut,1945,"",101,8989.0,"",christmas in connecticut,"","","","","","","","","","","","","","","",0,"",false
+tt0092710,Burglar,2294,Burglar,1987,"",103,4359.0,"",burglar,"","","","","","","","","","","",67,1.6337355E7,1.6337355E7,"",0,"",false
+tt0067546,Pakeezah,1367,Pakeezah,1972,"",147,1607.0,"",pakeezah,"","","","","","","","","","","","","","","",0,"",false
+tt0245574,Y tu mamá también,3888,Y tu mamá también,2001,"",106,120094.0,"",y tu mama tambien,1,"","","",5000000,Drama Romance,"","",13.962548,"",tt0245574,97,3.3616692E7,1.3839658E7,1.9777034E7,0,"",false
+tt0106450,Body Melt,2796,"",1993,"",81,3018.0,"",body melt,"","","","","","","","","","","","","","","",0,"",false
+tt0065241,The Joke,1277,"","",1969,80,1430.0,"",the joke,"","","","","","","","","","","","","","","",0,"",false
+tt4060544,Step Up China,8412,Step Up China,2019,"",100,3534.0,"",step up china,"","","","","","","","","","","","","","","",0,"",false
+tt2306786,Chupacabra Territory,7505,"",2016,"",94,1663.0,"",chupacabra territory,"","","","","","","","","","","","","","","",0,"",false
+tt0342508,Hangman's Curse,4377,"",2003,"",106,2610.0,"",hangman's curse,"","","","","","","","","","","","","","","",0,"",false
+tt0071695,Lone Wolf and Cub: White Heaven in Hell,1520,"","",1974,83,3741.0,"",lone wolf and cub: white heaven in hell,"","","","","","","","","","","","","","","",0,"",false
+tt1041753,Harold,5678,Harold,2008,"",90,1934.0,"",harold,"","","","","","","","","","","","","","","",0,"",false
+tt9664506,The Last Request,9972,"",2019,"",90,"","",the last request,"","","","","","","","","","","","","","","",0,"",false
+tt0032215,The Ape,255,The Ape,1940,"",62,1803.0,"",the ape,"","","","","","","","","","","","","","","",0,"",false
+tt0075005,The Omen,1629,The Omen,1976,"",111,114275.0,"",the omen,2,1,"","",2800000,Horror Thriller,"","",16.641277,"",tt0075005,"","","","",0,"",false
+tt0077636,The Greek Tycoon,1711,"",1978,"",107,2018.0,"",the greek tycoon,"","","","","","","","","","","",28,1.4672713E7,1.4672713E7,"",0,"",false
+tt1633356,Shark Night,6780,Shark Night 3D,"",2011,90,25664.0,"",shark night,"","","","",28000000,Horror Thriller,"","",6.062425,10126458,tt1633356,123,4.1363927E7,1.8877153E7,2.2486774E7,0,"",false
+tt0033563,Dumbo,287,"",1941,"",64,126856.0,"",dumbo,2,1,"","",812000,Animation Family,"","",14.655879,"",tt0033563,"","","","",0,"",false
+tt3917210,"Life, Animated",8360,"",2016,"",92,5876.0,"","life, animated",1,"","","","","","","","","","","","","","",0,"",false
+tt0757157,A Millionaire's First Love,5217,"",2006,"",116,5141.0,"",a millionaire's first love,"","","","","","","","","","","","","","","",0,"",false
+tt0436262,Ellie Parker,4884,"",2005,"",95,4623.0,"",ellie parker,"","","","","","","","","","","","","","","",0,"",false
+tt0493459,This Film Is Not Yet Rated,5180,"",2006,"",98,27984.0,"",this film is not yet rated,"","","","",0,Documentary,"","",5.205826,"",tt0493459,"","","","",0,"",false
+tt1186370,Spread,6044,Spread,2009,"",97,39524.0,"",spread,"","","","",0,Comedy,"","",11.219086,"",tt1186370,"","","","",0,"",false
+tt1133985,Green Lantern,5907,Green Lantern,2011,"",114,277475.0,"",green lantern,"","","","",200000000,Adventure Action Thriller Science Fiction,"","",13.985631,"",tt1133985,28,2.19851172E8,1.16601172E8,1.0325E8,0,"",false
+tt0058126,Hámlét,1013,Gamlet,1964,"",140,"","",hamlet,13,4,"","","","","","","","","","","","","",0,"",false
+tt0045943,Julius Caesar,594,"",1953,"",120,11174.0,"",julius caesar,5,1,"","","","","","","","","","","","","",0,"",false
+tt0385928,Panchatanthiram,4613,"",2002,"",150,3523.0,"",panchatanthiram,"","","","","","","","","","","","","","","",0,"",false
+tt13150630,Secrets of the Saqqara Tomb,6294,Secrets of the Saqqara Tomb,2020,"",113,5809.0,"",secrets of the saqqara tomb,"","","","","","","","","","","","","","","",0,"",false
+tt1651065,Don't Go in the Woods,6806,Don't Go in the Woods,2010,"",83,1068.0,"",don't go in the woods,"","","","","","","","","","","","","","","",0,"",false
+tt0975684,Kisses,5532,"",2008,"",72,1869.0,"",kisses,"","","","","","","","","","","","","","","",0,"",false
+tt0061015,Spinout,1114,Spinout,1966,"",90,"","",spinout,"","","","","","","","","","","","","","","",0,"",false
+tt0210727,Himáláyá,3766,Himalaya - l'enfance d'un chef,1999,"",108,5355.0,"",himalaya,"","","","","","","","","","","","","","","",0,"",false
+tt0078238,Sextette,1728,"",1977,"",91,1407.0,"",sextette,"","","","","","","","","","","","","","","",0,"",false
+tt3896100,Cáptúré thé Flág,8350,Atrapa la bandera,2015,"",94,3683.0,"",capture the flag,"","","","",14000000,Comedy Animation Adventure,"","",6.345679,"",tt3896100,"","","","",0,"",false
+tt0116606,If Lucy Fell,3152,If Lucy Fell,1996,"",92,4115.0,"",if lucy fell,"","","","","","","","","","","",177,2420162.0,2420162.0,"",0,"",false
+tt0079013,Cuba,1756,"",1979,"",122,2666.0,"",cuba,"","","","","","","","","","","",60,5610280.0,5610280.0,"",0,"",false
+tt3135556,Jimmy Vestvood: Amerikan Hero,7969,Jimmy Vestvood: Amerikan Hero,2016,"",84,"","",jimmy vestvood: amerikan hero,"","","","",2500000,Comedy,"","",1.216497,230069,tt3135556,"","","","",0,"",false
+tt0879870,Eat Pray Love,5427,"",2010,"",133,93857.0,"",eat pray love,"","","","",60000000,Drama,"","",15.904834,204594016,tt0879870,36,2.04594016E8,8.057401E7,1.24020006E8,0,"",false
+tt1425928,Vampire Girl vs. Frankenstein Girl,6473,"",2009,"",84,3706.0,"",vampire girl vs. frankenstein girl,"","","","","","","","","","","","","","","",0,"",false
+tt15354498,The Killer,6626,The Killer,2021,"",154,1070.0,"",the killer,"","","","","","","","","","","","","","","",0,"",false
+tt0091943,Sherman's March,2265,Sherman's March,1985,"",157,"","",sherman's march,"","","","","","","","","","","","","","","",0,"",false
+tt0069815,Happy New Year,1454,"",1973,"",115,1667.0,"",happy new year,1,"","","","","","","","","","","","","","",0,"",false
+tt1578275,The Dilemma,6694,The Dilemma,2011,"",111,53457.0,"",the dilemma,"","","","",70000000,Comedy Drama,"","",7.513067,67112664,tt1578275,94,6.9721966E7,4.847529E7,2.1246676E7,0,"",false
+tt0131097,The Widower,3423,Il vedovo,1959,"",87,1229.0,"",the widower,"","","","","","","","","","","","","","","",0,"",false
+tt0029217,Marked Woman,195,Marked Woman,1937,"",96,4051.0,"",marked woman,"","","","","","","","","","","","","","","",0,"",false
+tt0077235,Big Wednesday,1696,Big Wednesday,1978,"",120,6494.0,"",big wednesday,"","","","","","","","","","","","","","","",0,"",false
+tt0433963,Dárk Ridé,4876,Dark Ride,2006,"",94,6276.0,"",dark ride,"","","","","","","","","","","","","","","",0,"",false
+tt1651143,Nớ cớntrớlés,6808,"",2010,"",100,1123.0,"",no controles,"","","","","","","","","","","","","","","",0,"",false
+tt1745710,Gore Vidal: The United States of Amnesia,6944,Gore Vidal: The United States of Amnesia,2013,"",83,1267.0,"",gore vidal: the united states of amnesia,"","","","","","","","","","","","","","","",0,"",false
+tt2218988,Ustad Hotel,7419,Ustad Hotel,2012,"",151,13530.0,"",ustad hotel,"","","","","","","","","","","","","","","",0,"",false
+tt0104553,"All's Well, Ends Well",2730,Ga yau hei si,"",1992,100,"","","all's well, ends well","","","","","","","","","","","","","","","",0,"",false
+tt0093773,Predator,2349,Predator,1987,"",107,391304.0,"",predator,1,"","","",18000000,Science Fiction Action Adventure Thriller,"","",18.495693,"",tt0093773,12,5.9735548E7,5.9735548E7,"",0,"",false
+tt0923752,The King of Kong: A Fistful of Quarters,5484,"",2007,"",79,36067.0,"",the king of kong: a fistful of quarters,"","","","","","","","","","","","","","","",0,"",false
+tt0162710,Trick,3551,Trick,1999,"",89,8636.0,"",trick,"","","","",450000,Comedy Romance,"","",2.493289,"",tt0162710,183,2087228.0,2087228.0,"",0,"",false
+tt1034302,The Cry of the Owl,5661,The Cry of the Owl,2009,"",100,4643.0,"",the cry of the owl,"","","","","","","","","","","","","","","",0,"",false
+tt7387300,Oru Adaar Love,9517,Oru Adaar Love,2019,"",145,3039.0,"",oru adaar love,"","","","","","","","","","","","","","","",0,"",false
+tt0114108,The Pebble and the Penguin,3067,The Pebble and the Penguin,1995,"",74,4936.0,"",the pebble and the penguin,"","","","",28000000,Animation Adventure Family,"","",2.304986,"",tt0114108,159,3983912.0,3983912.0,"",0,"",false
+tt2210769,Liza the Fox-Fairy,7410,"Liza, a rókatündér","",2015,98,8734.0,"",liza the fox-fairy,"","","","","","","","","","","","","","","",0,"",false
+tt0102593,One Good Cop,2673,"",1991,"",114,4088.0,"",one good cop,"","","","","","","","","","","",91,1.1276846E7,1.1276846E7,"",0,"",false
+tt0027342,They Were Five,159,La belle équipe,1936,"",100,1202.0,"",they were five,"","","","","","","","","","","","","","","",0,"",false
+tt1567448,Yahsi Bati,6673,"",2009,"",112,34200.0,"",yahsi bati,"","","","","","","","","","","","","","","",0,"",false
+tt1132626,Saw V,5903,"",2008,"",92,121257.0,"",saw v,"","","","",10800000,Horror Thriller Crime,"","",10.165499,"",tt1132626,56,1.13864059E8,5.6746769E7,5.711729E7,0,"",false
+tt0003740,Cabiria,0,"",1914,"",148,3452.0,"",cabiria,"","","","","","","","","","","","","","","",0,"",false
+tt1204883,Boogeyman 3,6084,"",2008,"",93,4821.0,"",boogeyman 3,"","","","","","","","","","","","","","","",0,"",false
+tt15085794,Untold: Deal with the Devil,6583,Untold: Deal with the Devil,2021,"",77,1856.0,"",untold: deal with the devil,"","","","","","","","","","","","","","","",0,"",false
+tt0010307,J'accuse!,3,"",1919,"",166,1692.0,"",j'accuse!,"","","","","","","","","","","","","","","",0,"",false
+tt0118906,Csinibaba,3247,Csinibaba,1997,"",100,2051.0,"",csinibaba,"","","","","","","","","","","","","","","",0,"",false
+tt3257072,Fish & Cat,8027,Mahi va gorbeh,2013,"",134,2480.0,"",fish & cat,"","","","","","","","","","","","","","","",0,"",false
+tt0452664,Party Crashers,4962,Os Penetras,2012,"",88,1006.0,"",party crashers,"","","","","","","","","","","","","","","",0,"",false
+tt1073223,Detective Conan: Countdown to Heaven,5751,Meitantei Conan: Tengoku no countdown,2001,"",100,2196.0,"",detective conan: countdown to heaven,"","","","","","","","","","","","","","","",0,"",false
+tt0130827,Run Lola Run,3422,"",1998,"",81,194838.0,"",run lola run,"","","","",1530000,Action Drama Thriller,"","",7.765379,"",tt0130827,"","","","",0,"",false
+tt0270891,Costa!,4039,"",2001,"",95,2439.0,"",costa!,"","","","","","","","","","","","","","","",0,"",false
+tt0458522,El cantante,4995,"",2006,"",106,4904.0,"",el cantante,"","","","","","","","","","","","","","","",0,"",false
+tt0099750,Heart Condition,2581,Heart Condition,1990,"",100,3493.0,"",heart condition,"","","","",0,Fantasy Comedy Science Fiction,"","",5.531486,"",tt0099750,131,4134992.0,4134992.0,"",0,"",false
+tt0116736,The Hunters,3158,Jägarna,"",1996,113,8301.0,"",the hunters,"","","","","","","","","","","","","","","",0,"",false
+tt0426396,Alien Abduction,4834,"",2005,"",96,1410.0,"",alien abduction,"","","","","","","","","","","","","","","",0,"",false
+tt0163187,Runaway Bride,3558,Runaway Bride,1999,"",116,96275.0,"",runaway bride,"","","","",70000000,Comedy Romance,"","",8.919469,309457509,tt0163187,7,3.09460292E8,1.52257509E8,1.57202783E8,0,"",false
+tt2719848,Everest,7783,Everest,2015,"",121,210265.0,"",everest,"","","","",55000000,Adventure Drama,"","",10.758754,203427584,tt2719848,38,2.03427584E8,4.348227E7,1.59945314E8,0,"",false
+tt0903657,Love & Mercy,5461,"",2014,"",121,38200.0,"",love & mercy,"","","","",0,Drama,"","",10.444048,28641776,tt0903657,"","","","",0,"",false
+tt4623856,Wớlvés,8641,"","",2016,109,1215.0,"",wolves,"","","","","","","","","","","","","","","",0,"",false
+tt1680136,Klown,6855,"",2010,"",93,10847.0,"",klown,"","","","","","","","","","","","","","","",0,"",false
+tt0473333,The Backwoods,5057,Bosque de sombras,2006,"",97,5535.0,"",the backwoods,"","","","","","","","","","","","","","","",0,"",false
+tt3814486,"Bloed, Zweet & Tranen",8313,"",2015,"",111,1825.0,"","bloed, zweet & tranen","","","","","","","","","","","","","","","",0,"",false
+tt0040723,Raw Deal,470,Raw Deal,1948,"",79,4545.0,"",raw deal,"","","","","","","","","","","","","","","",0,"",false
+tt1895315,Brimstone,7120,"",2016,"",148,"","",brimstone,"","","","","","","","","","","","","","","",0,"",false
+tt2210441,Bittersweet,7407,"",2010,"",130,6216.0,"",bittersweet,"","","","","","","","","","","","","","","",0,"",false
+tt1922679,Open Road,7136,Open Road,2013,"",85,1758.0,"",open road,"","","","","","","","","","","","","","","",0,"",false
+tt0079417,Kramer vs. Kramer,1766,Kramer vs. Kramer,1979,"",105,140262.0,"",kramer vs. kramer,9,5,"","",8000000,Drama,"","",9.741644,106260000,tt0079417,1,1.0626E8,1.0626E8,"",0,"",false
+tt0310154,In This World,4234,In This World,2002,"",88,4232.0,"",in this world,"","","","","","","","","","","","","","","",0,"",false
+tt0054020,Thé Lééch Wớmán,849,"",1960,"",77,1922.0,"",the leech woman,"","","","","","","","","","","","","","","",0,"",false
+tt0083866,E.T. the Extra-Terrestrial,1925,E.T. the Extra-Terrestrial,1982,"",115,390937.0,"",e.t. the extra-terrestrial,9,4,"","",10500000,Science Fiction Adventure Family Fantasy,"","",19.358545,"",tt0083866,1,3.59197037E8,3.59197037E8,"",0,"",false
+tt0192407,Otto - Der Katastrofenfilm,3703,"",2000,"",92,1442.0,"",otto - der katastrofenfilm,"","","","","","","","","","","",169,5058355.0,"",5058355.0,0,"",false
+tt0457400,Land of the Lost,4988,Land of the Lost,2009,"",102,69098.0,"",land of the lost,"","",1,"",100000000,Adventure Comedy Science Fiction,"","",7.642063,"",tt0457400,84,6.8777554E7,4.943837E7,1.9339184E7,0,"",false
+tt0028313,The Story of Louis Pasteur,178,"",1936,"",86,2705.0,"",the story of louis pasteur,4,3,"","","","","","","","","","","","","",0,"",false
+tt1764657,Thé Gréát Whité Siléncé,6962,"",1922,"",80,1193.0,"",the great white silence,"","","","","","","","","","","","","","","",0,"",false
+tt0246578,Donnie Darko,3895,Donnie Darko,2001,"",113,770414.0,"",donnie darko,"","","","",6000000,Fantasy Drama Mystery,"","",18.303148,"",tt0246578,"","","","",0,"",false
+tt0234217,Clouds of May,3833,"",1999,"",130,5971.0,"",clouds of may,"","","","","","","","","","","","","","","",0,"",false
+tt0327920,I Am Trying to Break Your Heart,4312,I Am Trying to Break Your Heart,2002,"",92,2092.0,"",i am trying to break your heart,"","","","","","","","","","","","","","","",0,"",false
+tt0420966,Wớúndéd Lớvé,4789,"",2004,"",143,2449.0,"",wounded love,"","","","","","","","","","","","","","","",0,"",false
+tt0064494,Eugenie,1257,De Sade 70,"",1970,87,1596.0,"",eugenie,"","","","","","","","","","","","","","","",0,"",false
+tt0458449,The Other Half,4994,The Other Half,2006,"",94,1009.0,"",the other half,"","","","","","","","","","","","","","","",0,"",false
+tt7356432,Babam,9507,Babam,2017,"",130,1673.0,"",babam,"","","","","","","","","","","","","","","",0,"",false
+tt0093589,My Demon Lover,2342,My Demon Lover,1987,"",90,1343.0,"",my demon lover,"","","","","","","","","","","",122,3922273.0,3922273.0,"",0,"",false
+tt1928330,Bad Ass,7145,Bad Ass,"",2012,90,18908.0,"",bad ass,"","","","","","","","","","","","","","","",0,"",false
+tt1587729,71: Into the Fire,6710,Pohwasogeuro,2010,"",120,5374.0,"",71: into the fire,"","","","",10400000,War,"","",3.106814,"",tt1587729,186,2.096766E7,176638.0,2.0791022E7,0,"",false
+tt0100486,Reversal of Fortune,2610,Reversal of Fortune,1990,"",111,16034.0,"",reversal of fortune,3,1,"","",0,Drama,"","",7.929751,"",tt0100486,79,1.5445131E7,1.5445131E7,"",0,"",false
+tt0252269,Bekçiler Krali,3925,Bekçiler Krali,1979,"",82,6227.0,"",bekciler krali,"","","","","","","","","","","","","","","",0,"",false
+tt0970416,The Day the Earth Stood Still,5528,The Day the Earth Stood Still,2008,"",104,167730.0,"",the day the earth stood still,"","","","",80000000,Drama Science Fiction Thriller,"","",9.265322,"",tt0970416,26,2.33093859E8,7.9366978E7,1.53726881E8,0,"",false
+tt4680980,Lavender,8658,"",2016,"",92,6815.0,"",lavender,"","","","","","","","","","","","","","","",0,"",false
+tt1068649,I've Loved You So Long,5740,"",2008,"",117,20181.0,"",i've loved you so long,"","","","","","","","","","","",186,2.2272176E7,3169305.0,1.9102871E7,0,"",false
+tt0768222,Night of the Templar,5240,Night of the Templar,"",2013,101,6631.0,"",night of the templar,"","","","","","","","","","","","","","","",0,"",false
+tt1334102,The Resident,6325,"",2011,"",91,27506.0,"",the resident,"","","","","","","","","","","","","","","",0,"",false
+tt0069436,Ulzana's Raid,1443,"",1972,"",103,5591.0,"",ulzana's raid,"","","","","","","","","","","","","","","",0,"",false
+tt0352314,Ek Hasina Thi,4412,"",2004,"",120,7207.0,"",ek hasina thi,"","","","","","","","","","","","","","","",0,"",false
+tt0065938,Kélly's Hérớés,1295,"",1970,"",144,47763.0,"",kelly's heroes,"","","","",4000000,Adventure Comedy War,"","",8.418662,"",tt0065938,"","","","",0,"",false
+tt0079386,Kaala Patthar,1765,"",1979,"",176,2346.0,"",kaala patthar,"","","","","","","","","","","","","","","",0,"",false
+tt0089851,Pulgasari,2183,"",1985,"",95,1104.0,"",pulgasari,"","","","","","","","","","","","","","","",0,"",false
+tt0113247,La Haine,3028,La haine,1995,"",98,162601.0,"",la haine,"","","","","","","","","","","","","","","",0,"",false
+tt0263124,Brainstorm,3990,"",2000,"",74,5341.0,"",brainstorm,"","","","","","","","","","","","","","","",0,"",false
+tt2109184,Paranormal Activity 4,7311,Paranormal Activity 4,2012,"",88,64911.0,"",paranormal activity 4,"","","","",5000000,Horror,"","",6.188286,142817992,tt2109184,52,1.42802657E8,5.3885E7,8.8917657E7,0,"",false
+tt1341167,Four Lions,6340,"",2010,"",97,75824.0,"",four lions,"","","","",967686,Comedy Crime Drama,"","",11.934045,4270000,tt1341167,"","","","",0,"",false
+tt0386504,Haven,4618,"",2004,"",115,6629.0,"",haven,"","","","","","","","","","","","","","","",0,"",false
+tt0090830,Childrén ớf á Léssér Gớd,2213,"",1986,"",119,16034.0,"",children of a lesser god,5,1,"","",0,Drama Romance,"","",8.503064,"",tt0090830,32,3.185308E7,3.185308E7,"",0,"",false
+tt0091142,Gothic,2225,"",1986,"",87,7733.0,"",gothic,"","","","","","","","","","","","","","","",0,"",false
+tt0418110,Romanzo Criminale,4775,"",2005,"",152,8986.0,"",romanzo criminale,"","","","",818418,Drama,"","",4.387586,"",tt0418110,"","","","",0,"",false
+tt4843012,No Filter,8714,"",2016,"",100,1930.0,"",no filter,"","","","","","","","","","","","","","","",0,"",false
+tt0113463,Jefferson in Paris,3035,"",1995,"",139,3005.0,"",jefferson in paris,"","","","",14000000,Drama Romance,"","",1.596058,2474000,tt0113463,179,2473668.0,2473668.0,"",0,"",false
+tt3142688,Finding Fanny,7974,Finding Fanny,2014,"",102,6353.0,"",finding fanny,"","","","","","","","","","","","","","","",0,"",false
+tt0071691,The Enigma of Kaspar Hauser,1519,Jeder für sich und Gott gegen alle,1974,"",110,17319.0,"",the enigma of kaspar hauser,"","","","","","","","","","","","","","","",0,"",false
+tt0106330,From Karkheh to Rhein,2788,Az Karkheh ta Rhein,1993,"",93,2738.0,"",from karkheh to rhein,"","","","","","","","","","","","","","","",0,"",false
+tt4253744,Çakallarla Dans 3: Sifir Sikinti,8500,"",2014,"",102,2625.0,"",cakallarla dans 3: sifir sikinti,"","","","","","","","","","","","","","","",0,"",false
+tt14053010,Asalem Jarigindi,6443,"",2021,"",124,1112.0,"",asalem jarigindi,"","","","","","","","","","","","","","","",0,"",false
+tt0053724,El cochecito,836,El cochecito,1960,"",85,1164.0,"",el cochecito,"","","","","","","","","","","","","","","",0,"",false
+tt0360717,King Kong,4439,"",2005,"",187,409833.0,"",king kong,7,4,"","",207000000,Adventure Drama Action,"","",19.761164,550000000,tt0360717,5,5.56906378E8,2.18080025E8,3.38826353E8,0,"",false
+tt0343818,"I, Rớbớt",4380,"I, Robot",2004,"",115,519555.0,"","i, robot",1,"","","",120000000,Action Science Fiction,"","",14.43075,"",tt0343818,11,3.53133898E8,1.44801023E8,2.08332875E8,0,"",false
+tt1742334,Sabotage,6941,Sabotage,2014,"",109,"","",sabotage,"","","","",35000000,Action Drama Thriller Crime,"","",6.966505,17508518,tt1742334,"","","","",0,"",false
+tt0275309,Dogtown and Z-Boys,4060,"",2001,"",91,12730.0,"",dogtown and z-boys,"","","","","","","","","","","","","","","",0,"",false
+tt0085318,Chained Heat,1987,Chained Heat,1983,"",95,2327.0,"",chained heat,"","","","","","","","","","","",89,6149983.0,6149983.0,"",0,"",false
+tt4836110,Emilia,8713,"",2017,"",120,1254.0,"",emilia,"","","","","","","","","","","","","","","",0,"",false
+tt3374966,The Mafia Kills Only in Summer,8077,"",2013,"",90,8087.0,"",the mafia kills only in summer,"","","","","","","","","","","","","","","",0,"",false
+tt0107311,Khalnayak,2828,Khal Nayak,"",1993,190,"","",khalnayak,"","","","","","","","","","","","","","","",0,"",false
+tt5689068,Killing Gunther,9031,Killing Gunther,2017,"",92,13030.0,"",killing gunther,"","","","","","","","","","","","","","","",0,"",false
+tt13428402,Stand by Me Doraemon 2,6344,Stand by Me Doraemon 2,2020,"",96,2672.0,"",stand by me doraemon 2,"","","","","","","","","","","",23,6.5201374E7,"",6.5201374E7,0,"",false
+tt0099691,Graffiti Bridge,2576,"",1990,"",90,1957.0,"",graffiti bridge,"","",1,"","","","","","","","",126,4562778.0,4562778.0,"",0,"",false
+tt0104027,CrissCross,2715,"","",1992,100,1903.0,"",crisscross,"","","","","","","","","","","",135,3052738.0,3052738.0,"",0,"",false
+tt0054331,Spartacus,867,Spartacus,1960,"",197,130879.0,"",spartacus,6,4,"","",12000000,Action Drama History,"","",11.110376,60000000,tt0054331,"","","","",0,"",false
+tt9359344,"Te quiero, imbécil",9932,"",2020,"",87,3140.0,"","te quiero, imbecil","","","","","","","","","","","","","","","",0,"",false
+tt0066952,"Count Yorga, Vampire",1342,"Count Yorga, Vampire",1970,"",93,2498.0,"","count yorga, vampire","","","","","","","","","","","","","","","",0,"",false
+tt0146882,High Fidélity,3505,High Fidelity,2000,"",113,175082.0,"",high fidelity,"","","","",30000000,Comedy Drama Romance Music,"","",8.524956,"",tt0146882,81,4.7126295E7,2.7287137E7,1.9839158E7,0,"",false
+tt2998406,No Stranger Than Love,7901,No Stranger Than Love,2015,"",89,2711.0,"",no stranger than love,"","","","","","","","","","","","","","","",0,"",false
+tt6450662,End Trip,9287,"",2018,"",85,1822.0,"",end trip,"","","","","","","","","","","","","","","",0,"",false
+tt0119989,Shadow of Doubt,3307,"",1998,"",103,1824.0,"",shadow of doubt,"","","","","","","","","","","","","","","",0,"",false
+tt0991174,Ingenious,5565,Ingenious,2009,"",85,1962.0,"",ingenious,"","","","","","","","","","","","","","","",0,"",false
+tt0059884,"War and Peace, Part I: Andrei Bolkonsky",1083,Voyna i mir I: Andrey Bolkonskiy,1965,"",147,1616.0,"","war and peace, part i: andrei bolkonsky","","","","","","","","","","","","","","","",0,"",false
+tt0756313,Sirens in the Aegean,5214,"",2005,"",115,3075.0,"",sirens in the aegean,"","","","","","","","","","","","","","","",0,"",false
+tt4998772,Bedeviled,8777,"",2016,"",91,3190.0,"",bedeviled,"","","","","","","","","","","","","","","",0,"",false
+tt0038948,Sistér Kénny,416,"",1946,"",116,1117.0,"",sister kenny,1,"","","","","","","","","","","","","","",0,"",false
+tt0072637,Amici miei,1535,"",1975,"",140,"","",amici miei,"","","","","","","","","","","","","","","",0,"",false
+tt5115024,Back to Mom's,8818,"",2016,"",97,2050.0,"",back to mom's,"","","","","","","","","","","","","","","",0,"",false
+tt5779540,Dear Dictator,9076,Dear Dictator,2017,"",90,4986.0,"",dear dictator,"","","","","","","","","","","","","","","",0,"",false
+tt0053598,Thé Lớvés ớf Hércúlés,828,"",1960,"",102,"","",the loves of hercules,"","","","","","","","","","","","","","","",0,"",false
+tt5990066,Bád Mátch,9151,Bad Match,2017,"",90,4258.0,"",bad match,"","","","","","","","","","","","","","","",0,"",false
+tt2040560,The Pact,7236,"",2012,"",89,24179.0,"",the pact,"","","","","","","","","","","","","","","",0,"",false
+tt1272013,Brain Drain,6205,"",2009,"",104,2020.0,"",brain drain,"","","","","","","","","","","","","","","",0,"",false
+tt1862472,Kolpaçino: Bomba,7088,Kolpaçino: Bomba,2011,"",92,6807.0,"",kolpacino: bomba,"","","","","","","","","","","","","","","",0,"",false
+tt6509862,Mr. Long,9304,Ryu san,2017,"",129,"","",mr. long,"","","","","","","","","","","","","","","",0,"",false
+tt0434424,Undiscovered,4877,"",2005,"",97,2851.0,"",undiscovered,"","","","",9000000,Comedy Romance,"","",1.494688,1046166,tt0434424,"","","","",0,"",false
+tt0808240,Turks in Space,5308,"","",2006,110,16138.0,"",turks in space,"","","","","","","","","","","","","","","",0,"",false
+tt0053944,The Incredible Petrified World,845,The Incredible Petrified World,1959,"",70,1111.0,"",the incredible petrified world,"","","","","","","","","","","","","","","",0,"",false
+tt0872190,Cash,5421,"",2007,"",137,1935.0,"",cash,"","","","","","","","","","","","","","","",0,"",false
+tt6769280,Time Freak,9370,"",2018,"",104,8424.0,"",time freak,1,"","","","","","","","","","","","","","",0,"",false
+tt2332801,The Spirit of '45,7531,The Spirit of '45,2013,"",94,1183.0,"",the spirit of '45,"","","","","","","","","","","","","","","",0,"",false
+tt5332502,Rajini Murugan,8905,Rajini Murugan,2015,"",149,1642.0,"",rajini murugan,"","","","","","","","","","","","","","","",0,"",false
+tt0157894,The Killing of America,3539,The Killing of America,1981,"",90,2024.0,"",the killing of america,"","","","","","","","","","","","","","","",0,"",false
+tt1813609,A Haunting at Silver Falls,7019,"",2013,"",96,"","",a haunting at silver falls,"","","","","","","","","","","","","","","",0,"",false
+tt1429429,Coursier,6478,"",2010,"",98,1669.0,"",coursier,"","","","","","","","","","","","","","","",0,"",false
+tt0119219,Goodbye Lover,3268,"",1998,"",102,"","",goodbye lover,"","","","","","","","","","","","","","","",0,"",false
+tt0095145,Feds,2408,Feds,1988,"",82,3069.0,"",feds,"","","","",0,Action Comedy Family,"","",3.139282,"",tt0095145,129,3838793.0,3838793.0,"",0,"",false
+tt0432318,Livé Fréé ớr Dié,4870,"","",2006,89,2471.0,"",live free or die,"","","","","","","","","","","","","","","",0,"",false
+tt8988748,Seventeen,9853,Diecisiete,2019,"",99,"","",seventeen,"","","","","","","","","","","","","","","",0,"",false
+tt0109144,A.P.E.X.,2886,"",1994,"",98,1111.0,"",a.p.e.x.,"","","","",0,Science Fiction Action,"","",1.160832,49601,tt0109144,"","","","",0,"",false
+tt2429640,Murder 3,7642,"",2013,"",124,2526.0,"",murder 3,"","","","","","","","","","","","","","","",0,"",false
+tt0046303,Shane,602,Shane,1953,"",118,39297.0,"",shane,6,1,"","",3100000,Drama Western,"","",6.63816,"",tt0046303,"","","","",0,"",false
+tt2294567,Dhámmú,7488,"",2012,"",155,1986.0,"",dhammu,"","","","","","","","","","","","","","","",0,"",false
+tt0087164,A Summer at Grandpa's,2084,"",1984,"",93,"","",a summer at grandpa's,"","","","","","","","","","","","","","","",0,"",false
+tt0120381,True Heart,3329,"",1999,"",92,"","",true heart,"","","","","","","","","","","","","","","",0,"",false
+tt1220706,Breathing Room,6108,"",2008,"",89,3581.0,"",breathing room,"","","","","","","","","","","","","","","",0,"",false
+tt4010862,Massacre on Aisle 12,8394,"",2016,"",83,2681.0,"",massacre on aisle 12,"","","","","","","","","","","","","","","",0,"",false
+tt8231668,Good on Paper,9714,"",2021,"",92,10271.0,"",good on paper,"","","","","","","","","","","","","","","",0,"",false
+tt0077613,Girlfriends,1710,"","",1978,88,2240.0,"",girlfriends,"","","","","","","","","","","","","","","",0,"",false
+tt0236638,Deep in the Woods,3846,"",2000,"",90,2620.0,"",deep in the woods,"","","","","","","","","","","","","","","",0,"",false
+tt0064952,The Secret of Santa Vittoria,1267,The Secret of Santa Vittoria,1969,"",139,3577.0,"",the secret of santa vittoria,2,"","","","","","","","","","","","","","",0,"",false
+tt4591732,Mihrez: Cin Padisahi,8629,"",2015,"",101,1816.0,"",mihrez: cin padisahi,"","","","","","","","","","","","","","","",0,"",false
+tt1438535,Film socialisme,6500,"",2010,"",102,2679.0,"",film socialisme,"","","","","","","","","","","","","","","",0,"",false
+tt0454848,Insidé Mán,4971,Inside Man,2006,"",129,357328.0,"",inside man,"","","","",45000000,Crime Drama Thriller,"","",13.393548,"",tt0454848,21,1.86003591E8,8.8513495E7,9.7490096E7,0,"",false
+tt3446426,Time Pass,8113,"",2014,"",143,1389.0,"",time pass,"","","","","","","","","","","","","","","",0,"",false
+tt0018737,Pandora's Box,61,"","",1929,109,10475.0,"",pandora's box,"","","","","","","","","","","","","","","",0,"",false
+tt1845773,Ai Weiwei: Never Sorry,7068,"",2012,"",91,4344.0,"",ai weiwei: never sorry,"","","","",0,Documentary,"","",2.643111,181107,tt1845773,"","","","",0,"",false
+tt0098320,Shocker,2538,Shocker,1989,"",109,15971.0,"",shocker,"","","","",5000000,Thriller Comedy Horror,"","",5.587765,16554699,tt0098320,62,1.6554699E7,1.6554699E7,"",0,"",false
+tt0108569,Wildér Nápálm,2876,"",1993,"",109,"","",wilder napalm,"","","","","","","","","","","","","","","",0,"",false
+tt0093209,Hope and Glory,2325,Hope and Glory,1987,"",113,13230.0,"",hope and glory,5,"","","","","","","","","","",88,1.002112E7,1.002112E7,"",0,"",false
+tt0078966,The China Syndrome,1752,The China Syndrome,1979,"",122,"","",the china syndrome,4,"","","",5900000,Thriller Drama,"","",4.621214,"",tt0078966,12,5.1718367E7,5.1718367E7,"",0,"",false
+tt0100436,Pump Up the Volume,2607,Pump Up the Volume,1990,"",102,27790.0,"",pump up the volume,"","","","",0,Music Drama,"","",4.289341,"",tt0100436,92,1.1541758E7,1.1541758E7,"",0,"",false
+tt0034591,There Was a Father,314,"",1942,"",94,2677.0,"",there was a father,"","","","","","","","","","","","","","","",0,"",false
+tt0089274,The Hills Have Eyes Part II,2156,The Hills Have Eyes Part II,1984,"",86,6366.0,"",the hills have eyes part ii,"","","","","","","","","","","","","","","",0,"",false
+tt9389916,Digger,9936,Digger,2020,"",101,1300.0,"",digger,"","","","","","","","","","","","","","","",0,"",false
+tt2378145,Nun,7584,Gas Light,"",2017,80,1156.0,"",nun,"","","","","","","","","","","","","","","",0,"",false
+tt0489062,Going to Pieces: The Rise and Fall of the Slasher Film,5154,Going to Pieces: The Rise and Fall of the Slasher Film,"",2006,88,3476.0,"",going to pieces: the rise and fall of the slasher film,"","","","","","","","","","","","","","","",0,"",false
+tt0054665,The Fabulous Baron Munchausen,882,Baron Prásil,1962,"",83,"","",the fabulous baron munchausen,"","","","","","","","","","","","","","","",0,"",false
+tt2473750,Among the Living,7668,Aux yeux des vivants,2014,"",90,2255.0,"",among the living,"","","","","","","","","","","","","","","",0,"",false
+tt9690328,Pápér Spidérs,9976,Paper Spiders,2020,"",109,"","",paper spiders,"","","","","","","","","","","","","","","",0,"",false
+tt0083110,Les sous-doués en vacances,1897,"",1982,"",95,1410.0,"",les sous-doues en vacances,"","","","","","","","","","","","","","","",0,"",false
+tt0901481,Eichmann,5457,"",2007,"",96,3239.0,"",eichmann,"","","","","","","","","","","","","","","",0,"",false
+tt9735790,Me You Madness,9980,Me You Madness,2021,"",98,1056.0,"",me you madness,"","","","","","","","","","","","","","","",0,"",false
+tt0090735,Bláck Mớớn Rising,2210,"",1986,"",100,5714.0,"",black moon rising,"","","","",0,Science Fiction Action Thriller,"","",2.379451,"",tt0090735,94,6637565.0,6637565.0,"",0,"",false
+tt0037094,Mr. Skeffington,372,"",1944,"",146,5872.0,"",mr. skeffington,2,"","","","","","","","","","","","","","",0,"",false
+tt4009460,Kirk Cameron's Saving Christmas,8393,Saving Christmas,2014,"",79,15643.0,"",kirk cameron's saving christmas,"","","","","","","","","","","","","","","",0,"",false
+tt0892425,Before Flying Back to Earth,5445,Pries parskrendant i zeme,2005,"",52,1165.0,"",before flying back to earth,"","","","","","","","","","","","","","","",0,"",false
+tt0159485,Thé Tớúgh Ớnés,3544,"",1999,"",105,4902.0,"",the tough ones,"","","","","","","","","","","","","","","",0,"",false
+tt5775220,Noor,9072,Noor,2017,"",117,1497.0,"",noor,"","","","","","","","","","","","","","","",0,"",false
+tt1785288,An Ordinary Man,6985,An Ordinary Man,2017,"",90,"","",an ordinary man,"","","","","","","","","","","","","","","",0,"",false
+tt5034474,The Assignment,8783,"",2016,"",95,8159.0,"",the assignment,"","","","","","","","","","","","","","","",0,"",false
+tt0036818,The Punch Bowl,359,Die Feuerzangenbowle,1944,"",97,5967.0,"",the punch bowl,"","","","","","","","","","","","","","","",0,"",false
+tt2363181,Alpha Alert,7559,Event 15,2013,"",84,1197.0,"",alpha alert,"","","","","","","","","","","","","","","",0,"",false
+tt12888462,My Octopus Teacher,6244,"",2020,"",85,46791.0,"",my octopus teacher,"","","","","","","","","","","","","","","",0,"",false
+tt1935302,Monsters: Dark Continent,7157,Monsters: Dark Continent,2014,"",119,10560.0,"",monsters: dark continent,"","","","","","","","","","","","","","","",0,"",false
+tt0071994,Phantom of the Paradise,1527,"",1974,"",91,"","",phantom of the paradise,1,"","","","","","","","","","","","","","",0,"",false
+tt0091621,Never Too Young to Die,2251,"",1986,"",97,1738.0,"",never too young to die,"","","","","","","","","","","","","","","",0,"",false
+tt0276617,The White Sound,4065,"",2001,"",109,3260.0,"",the white sound,"","","","","","","","","","","","","","","",0,"",false
+tt0091579,My Chauffeur,2249,"",1986,"",97,1938.0,"",my chauffeur,"","","","","","","","","","","",111,4781448.0,4781448.0,"",0,"",false
+tt0414879,The Black Box,4753,La boîte noire,2005,"",90,1778.0,"",the black box,"","","","","","","","","","","","","","","",0,"",false
+tt3138104,The Hungover Games,7970,The Hungover Games,"",2014,85,14779.0,"",the hungover games,"","","","","","","","","","","","","","","",0,"",false
+tt0978649,Bliss,5539,Mutluluk,2007,"",105,7616.0,"",bliss,"","","","","","","","","","","","","","","",0,"",false
+tt0099871,Jacob's Ladder,2586,"",1990,"",113,104340.0,"",jacob's ladder,"","","","",25000000,Drama Mystery Horror,"","",8.176863,"",tt0099871,47,2.6118851E7,2.6118851E7,"",0,"",false
+tt2380564,Swearnet: The Movie,7587,Swearnet: The Movie,2014,"",112,2619.0,"",swearnet: the movie,"","","","","","","","","","","","","","","",0,"",false
+tt0206634,Childrén ớf Mén,3753,"",2006,"",109,"","",children of men,3,"","","",76000000,Drama Action Thriller Science Fiction,"","",14.114606,"",tt0206634,81,7.045577E7,3.5552383E7,3.4903387E7,0,"",false
+tt0222167,Lucky 13,3808,Lucky 13,2005,"",95,1113.0,"",lucky 13,"","","","","","","","","","","","","","","",0,"",false
+tt0072685,The Battle of Chile: Part I,1536,"","",1975,97,1348.0,"",the battle of chile: part i,"","","","","","","","","","","","","","","",0,"",false
+tt0157154,The Rose Seller,3537,La vendedora de rosas,1998,"",116,1875.0,"",the rose seller,"","","","","","","","","","","","","","","",0,"",false
+tt0057232,Koroleva benzokolonki,980,Koroleva benzokolonki,1963,"",78,"","",koroleva benzokolonki,"","","","","","","","","","","","","","","",0,"",false
+tt0038213,The Valley of Decision,397,"",1945,"",119,"","",the valley of decision,2,"","","",2160000,Drama,"","",0.230534,9132000,tt0038213,"","","","",0,"",false
+tt0353725,Meesha Madhavan,4416,"",2002,"",165,1534.0,"",meesha madhavan,"","","","","","","","","","","","","","","",0,"",false
+tt0847154,Angels of the Sun,5391,"",2006,"",92,1014.0,"",angels of the sun,"","","","","","","","","","","","","","","",0,"",false
+tt0073918,The Yakuza,1580,"",1974,"",112,8526.0,"",the yakuza,"","","","","","","","","","","","","","","",0,"",false
+tt0165494,Ringmaster,3573,"",1998,"",90,5157.0,"",ringmaster,"","","","",3500000,Comedy,"","",0.556435,9247881,tt0165494,134,9257103.0,9257103.0,"",0,"",false
+tt0043545,Flight to Mars,537,Flight to Mars,"",1951,72,1108.0,"",flight to mars,"","","","","","","","","","","","","","","",0,"",false
+tt0129659,Train Birds,3414,Zugvögel - ... einmal nach Inari,1998,"",87,1206.0,"",train birds,"","","","","","","","","","","","","","","",0,"",false
+tt0052782,Hercules Unchained,790,"",1959,"",98,"","",hercules unchained,"","","","","","","","","","","","","","","",0,"",false
+tt0066206,Patton,1306,Patton,1970,"",172,99376.0,"",patton,10,7,"","",12000000,Drama History War,"","",14.382289,"",tt0066206,"","","","",0,"",false
+tt0165473,Démớns,3572,Shura,1971,"",134,2095.0,"",demons,"","","","","","","","","","","","","","","",0,"",false
+tt0053579,Late Autumn,827,Akibiyori,1960,"",128,5190.0,"",late autumn,"","","","","","","","","","","","","","","",0,"",false
+tt2175669,Get Lucky,7358,Get Lucky,2013,"",86,1547.0,"",get lucky,"","","","","","","","","","","","","","","",0,"",false
+tt0334725,Wondrous Oblivion,4343,"",2003,"",106,1186.0,"",wondrous oblivion,"","","","","","","","","","","","","","","",0,"",false
+tt2722504,Sr. Pig,7784,Sr. Pig,2016,"",100,1200.0,"",sr. pig,"","","","","","","","","","","","","","","",0,"",false
+tt0119305,Homegrown,3276,Homegrown,1998,"",102,4719.0,"",homegrown,"","","","",0,Drama Action Comedy Thriller Crime,"","",1.840984,"",tt0119305,"","","","",0,"",false
+tt3075360,Googly,7937,Googly,"",2013,136,"","",googly,"","","","","","","","","","","","","","","",0,"",false
+tt0084296,The Man from Snowy River,1938,The Man from Snowy River,1982,"",102,8611.0,"",the man from snowy river,"","","","",3500000,Family Drama Action Western Romance,"","",3.382894,"",tt0084296,39,2.0659423E7,2.0659423E7,"",0,"",false
+tt2295722,Fálcớn Rising,7489,Falcon Rising,2014,"",103,"","",falcon rising,"","","","","","","","","","","","","","","",0,"",false
+tt2313189,Casting Couch,7509,Casting Couch,2013,"",94,3065.0,"",casting couch,"","","","","","","","","","","","","","","",0,"",false
+tt0155124,Rudra Veena,3521,Rudra Veena,"",1988,170,1863.0,"",rudra veena,"","","","","","","","","","","","","","","",0,"",false
+tt3626440,Mr. Dynámité: Thé Risé ớf Jámés Brớwn,8223,Mr. Dynamite: The Rise of James Brown,2014,"",120,1367.0,"",mr. dynamite: the rise of james brown,"","","","","","","","","","","","","","","",0,"",false
+tt0137799,Grớúnd Cớntrớl,3450,Ground Control,1998,"",93,"","",ground control,"","","","","","","","","","","","","","","",0,"",false
+tt0083629,The Beast Within,1916,"",1982,"",98,3911.0,"",the beast within,"","","","","","","","","","","",76,7742572.0,7742572.0,"",0,"",false
+tt0092549,Miami Connection,2283,"",1987,"",83,5261.0,"",miami connection,"","","","","","","","","","","","","","","",0,"",false
+tt0060446,Gamera vs. Barugon,1096,Daikaijû kettô: Gamera tai Barugon,1966,"",106,2406.0,"",gamera vs. barugon,"","","","","","","","","","","","","","","",0,"",false
+tt1692190,Hell,6867,"",2010,"",149,9420.0,"",hell,"","","","","","","","","","","","","","","",0,"",false
+tt0498353,Hostel: Part II,5201,Hostel: Part II,2007,"",94,88456.0,"",hostel: part ii,"","","","",10200000,Horror,"","",8.916747,"",tt0498353,126,3.5728183E7,1.7609452E7,1.8118731E7,0,"",false
+tt0420982,Blind Man's Bluff,4790,Zhmurki,2005,"",111,7017.0,"",blind man's bluff,"","","","","","","","","","","","","","","",0,"",false
+tt0251447,The Tunnel,3923,Der Tunnel,2001,"",150,6146.0,"",the tunnel,"","","","","","","","","","","","","","","",0,"",false
+tt0187251,Lovers Lane,3683,Lovers Lane,1999,"",90,1122.0,"",lovers lane,"","","","","","","","","","","","","","","",0,"",false
+tt0091799,Psycho III,2259,Psycho III,1986,"",93,14210.0,"",psycho iii,"","","","",0,Horror Thriller,"","",6.345885,14481606,tt0091799,59,1.4481606E7,1.4481606E7,"",0,"",false
+tt0293124,Erkan & Stefan gegen die Mächte der Finsternis,4155,Erkan & Stefan gegen die Mächte der Finsternis,2002,"",80,1289.0,"",erkan & stefan gegen die machte der finsternis,"","","","",0,Comedy,"","",0.889831,"",tt0293124,"","","","",0,"",false
+tt8378126,Queen of Hearts,9752,Dronningen,2019,"",127,10061.0,"",queen of hearts,"","","","","","","","","","","","","","","",0,"",false
+tt2202607,Everybody in Our Family,7401,"",2012,"",107,1520.0,"",everybody in our family,"","","","","","","","","","","","","","","",0,"",false
+tt2236160,Nightlight,7436,"",2015,"",85,2139.0,"",nightlight,"","","","","","","","","","","","","","","",0,"",false
+tt0036367,So Proudly We Hail!,350,"",1943,"",126,1700.0,"",so proudly we hail!,4,"","","","","","","","","","","","","","",0,"",false
+tt7382730,Luca,9515,"",2019,"",151,1729.0,"",luca,"","","","","","","","","","","","","","","",0,"",false
+tt0074559,Futureworld,1605,Futureworld,1976,"",108,10486.0,"",futureworld,"","","","","","","","","","","","","","","",0,"",false
+tt3758162,A Score to Settle,8294,"",2019,"",103,5264.0,"",a score to settle,"","","","","","","","","","","","","","","",0,"",false
+tt2741806,In Bloom,7791,"",2013,"",102,6828.0,"",in bloom,"","","","","","","","","","","","","","","",0,"",false
+tt0102164,Johnny Stecchino,2659,Johnny Stecchino,1991,"",102,10500.0,"",johnny stecchino,"","","","","","","","","","","","","","","",0,"",false
+tt1034311,Hata Göteborg,5664,"",2007,"",82,1489.0,"",hata goteborg,"","","","","","","","","","","","","","","",0,"",false
+tt0076452,Néws frớm Hớmé,1676,News from Home,1976,"",85,1775.0,"",news from home,"","","","","","","","","","","","","","","",0,"",false
+tt2238470,The Stranger,7439,The Stranger,2014,"",93,2876.0,"",the stranger,1,"","","","","","","","","","","","","","",0,"",false
+tt0046750,Late Chrysanthemums,608,Bangiku,1954,"",101,1043.0,"",late chrysanthemums,"","","","","","","","","","","","","","","",0,"",false
+tt1535566,The Bleeding House,6627,The Bleeding,2011,"",86,1716.0,"",the bleeding house,"","","","","","","","","","","","","","","",0,"",false
+tt6547786,Life Like,9318,"",2019,"",95,2748.0,"",life like,"","","","","","","","","","","","","","","",0,"",false
+tt0472033,9,5052,9,2009,"",79,137180.0,"",9,1,"","","",30000000,Action Adventure Animation Science Fiction Thriller,"","",18.502876,48428063,tt0472033,107,4.8428063E7,3.1749894E7,1.6678169E7,0,"",false
+tt0112895,Dr. Jekyll and Ms. Hyde,3021,"",1995,"",100,2820.0,"",dr. jekyll and ms. hyde,"","","","","","","","","","","",173,2763020.0,2763020.0,"",0,"",false
+tt0388139,It's Áll Gớné Pété Tớng,4629,"",2004,"",90,19820.0,"",it's all gone pete tong,"","","","",2000000,Drama Comedy Music,"","",2.812182,120620,tt0388139,"","","","",0,"",false
+tt0183459,Mádén,3667,Maden,1978,"",90,1360.0,"",maden,"","","","","","","","","","","","","","","",0,"",false
+tt0106519,Carlito's Way,2800,Carlito's Way,1993,"",144,210518.0,"",carlito's way,"","","","",30000000,Action Crime Drama Thriller,"","",8.698509,"",tt0106519,41,3.6948322E7,3.6948322E7,"",0,"",false
+tt0419279,Yesterday,4777,Yesterday,2004,"",90,2339.0,"",yesterday,1,"","","","","","","","","","","","","","",0,"",false
+tt0285492,Cube²: Hypercube,4116,Cube 2: Hypercube,2002,"",94,65946.0,"",cube2: hypercube,"","","","","","","","","","","","","","","",0,"",false
+tt5563782,Followed,8980,"",2018,"",96,2490.0,"",followed,"","","","","","","","","","","","","","","",0,"",false
+tt0220363,The Red Ribbon,3801,Rooban-e ghermez,1999,"",110,1113.0,"",the red ribbon,"","","","","","","","","","","","","","","",0,"",false
+tt2749296,The Beautiful Risk,7792,"",2013,"",91,11595.0,"",the beautiful risk,"","","","","","","","","","","","","","","",0,"",false
+tt6301452,Matriarch,9251,Matriarch,2018,"",91,4882.0,"",matriarch,"","","","","","","","","","","","","","","",0,"",false
+tt0063663,Thé Swimmér,1228,The Swimmer,1968,"",95,"","",the swimmer,"","","","","","","","","","","","","","","",0,"",false
+tt2014260,Jihne Mera Dil Luteya,7222,Jihne Mera Dil Luteya,2011,"",135,1024.0,"",jihne mera dil luteya,"","","","","","","","","","","","","","","",0,"",false
+tt0838254,Cease Fire,5372,Atash bas,2006,"",104,2600.0,"",cease fire,"","","","","","","","","","","","","","","",0,"",false
+tt1368439,Gagma napiri,6385,"",2009,"",90,1210.0,"",gagma napiri,"","","","","","","","","","","","","","","",0,"",false
+tt5716380,Thumper,9047,"",2017,"",93,2830.0,"",thumper,"","","","","","","","","","","","","","","",0,"",false
+tt4024814,Fúcking Bérlin,8400,Fucking Berlin,2016,"",94,2045.0,"",fucking berlin,"","","","","","","","","","","","","","","",0,"",false
+tt6051096,The Axiom,9166,"",2018,"",98,6819.0,"",the axiom,"","","","","","","","","","","","","","","",0,"",false
+tt0092684,Body Slam,2292,Body Slam,1986,"",92,1068.0,"",body slam,"","","","","","","","","","","","","","","",0,"",false
+tt0065126,True Grit,1271,True Grit,1969,"",128,"","",true grit,12,1,"","",0,Western,"","",12.497833,"",tt0065126,"","","","",0,"",false
+tt0058886,The Agony and the Ecstasy,1042,"",1965,"",138,7018.0,"",the agony and the ecstasy,5,"","","","","","","","","","","","","","",0,"",false
+tt0960097,Wake,5519,Wake,2009,"",97,1958.0,"",wake,"","","","","","","","","","","","","","","",0,"",false
+tt0092974,Ernest Goes to Camp,2308,Ernest Goes to Camp,1987,"",92,11340.0,"",ernest goes to camp,"","","","",3000000,Comedy Family,"","",5.712291,"",tt0092974,50,2.3509382E7,2.3509382E7,"",0,"",false
+tt0096870,Going Overboard,2473,"",1989,"",99,13246.0,"",going overboard,"","","","","","","","","","","","","","","",0,"",false
+tt0030044,The Dawn Patrol,210,"","",1938,103,"","",the dawn patrol,1,1,"","","","","","","","","","","","","",0,"",false
+tt1684913,Microphone,6862,"",2010,"",120,1613.0,"",microphone,"","","","","","","","","","","","","","","",0,"",false
+tt0201394,Thé Shrink Is In,3735,The Shrink Is In,2001,"",92,1522.0,"",the shrink is in,"","","","","","","","","","","","","","","",0,"",false
+tt0821442,A Dirty Carnival,5342,Biyeolhan geori,2006,"",140,"","",a dirty carnival,"","","","","","","","","","","","","","","",0,"",false
+tt0049531,The Mystery of Picasso,689,Le mystère Picasso,1956,"",78,2427.0,"",the mystery of picasso,"","","","","","","","","","","","","","","",0,"",false
+tt0212408,The Bus,3776,"",1975,"",84,2073.0,"",the bus,"","","","","","","","","","","","","","","",0,"",false
+tt5247022,Paterson,8868,"",2016,"",118,77389.0,"",paterson,"","","","",5000000,Comedy Drama Romance,"","",10.300307,"",tt5247022,"","","","",0,"",false
+tt0402057,Beowulf & Grendel,4692,"",2005,"",104,17877.0,"",beowulf & grendel,"","","","",0,Action Adventure Drama Fantasy,"","",5.606454,"",tt0402057,"","","","",0,"",false
+tt0295725,Time Changer,4165,"",2002,"",95,"","",time changer,"","","","","","","","","","","","","","","",0,"",false
+tt1584943,Dark Space,6707,Dark Space,2013,"",91,1074.0,"",dark space,"","","","","","","","","","","","","","","",0,"",false
+tt0382383,Yuva,4590,Yuva,"",2004,161,8763.0,"",yuva,"","","","","","","","","","","","","","","",0,"",false
+tt1764366,Hollywood Sex Wars,6959,"",2011,"",106,7212.0,"",hollywood sex wars,"","","","","","","","","","","","","","","",0,"",false
+tt0114234,Rangeela,3070,"",1995,"",142,9638.0,"",rangeela,"","","","",2800000,Drama Romance,"","",0.709452,"",tt0114234,"","","","",0,"",false
+tt3390550,The Barn,8084,"",2016,"",88,1490.0,"",the barn,"","","","","","","","","","","","","","","",0,"",false
+tt0032234,The Bank Dick,256,The Bank Dick,1940,"",72,7073.0,"",the bank dick,"","","","","","","","","","","","","","","",0,"",false
+tt0111549,Uncovered,2987,"",1994,"",103,2360.0,"",uncovered,"","","","","","","","","","","","","","","",0,"",false
+tt0086979,Blood Simple,2072,"",1984,"",99,93088.0,"",blood simple,"","","","","","","","","","","","","","","",0,"",false
+tt5845440,Blindsided,9102,"",2018,"",81,"","",blindsided,"","","","","","","","","","","","","","","",0,"",false
+tt1543701,Street Days,6642,"",2010,"",89,1182.0,"",street days,"","","","","","","","","","","","","","","",0,"",false
+tt0118799,Life Is Beautiful,3240,La vita è bella,1997,"",116,659788.0,"",life is beautiful,7,3,"","",20000000,Comedy Drama,"","",39.39497,229400000,tt0118799,"","","","",0,"",false
+tt0114906,Welcome to the Dollhouse,3094,"",1995,"",88,33471.0,"",welcome to the dollhouse,"","","","","","","","","","","","","","","",0,"",false
+tt0126618,I pớmpiéri,3396,"","",1985,89,1182.0,"",i pompieri,"","","","","","","","","","","","","","","",0,"",false
+tt0019421,"Steamboat Bill, Jr.",71,"Steamboat Bill, Jr.",1928,"",70,14166.0,"","steamboat bill, jr.","","","","","","","","","","","","","","","",0,"",false
+tt0108053,Schramm: Into the Mind of a Serial Killer,2852,Schramm,1993,"",65,3056.0,"",schramm: into the mind of a serial killer,"","","","","","","","","","","","","","","",0,"",false
+tt0091598,Naam,2250,Naam,1986,"",177,1055.0,"",naam,"","","","","","","","","","","","","","","",0,"",false
+tt6628394,Bad Times at the El Royale,9340,"",2018,"",141,140544.0,"",bad times at the el royale,"","","","","","","","","","","",163,3.1882724E7,1.7839115E7,1.4043609E7,0,"",false
+tt0048605,The Seven Year Itch,657,"",1955,"",105,37422.0,"",the seven year itch,"","","","","","","","","","","","","","","",0,"",false
+tt2332831,The Last Will and Testament of Rosalind Leigh,7532,"",2012,"",82,"","",the last will and testament of rosalind leigh,"","","","","","","","","","","","","","","",0,"",false
+tt1047102,Endless Bummer,5689,"",2009,"",87,1255.0,"",endless bummer,"","","","","","","","","","","","","","","",0,"",false
+tt0115683,Bio-Dome,3112,Bio-Dome,1996,"",88,27132.0,"",bio-dome,"","","","","","","","","","","",108,1.3427615E7,1.3427615E7,"",0,"",false
+tt0042490,The Furies,514,The Furies,1950,"",109,3233.0,"",the furies,1,"","","","","","","","","","","","","","",0,"",false
+tt0091042,Ferris Bueller's Day Off,2220,Ferris Bueller's Day Off,1986,"",103,339566.0,"",ferris bueller's day off,"","","","",6000000,Comedy,"","",12.724645,70136369,tt0091042,10,7.0712677E7,7.0136369E7,576308.0,0,"",false
+tt0061636,Face to Face,1148,Faccia a faccia,1967,"",111,2888.0,"",face to face,2,"","","","","","","","","","","","","","",0,"",false
+tt4568370,Blind Sun,8624,Blind Sun,2015,"",88,1631.0,"",blind sun,"","","","","","","","","","","","","","","",0,"",false
+tt0045810,Gentlemen Prefer Blondes,587,Gentlemen Prefer Blondes,1953,"",91,35358.0,"",gentlemen prefer blondes,"","","","","","","","","","","","","","","",0,"",false
+tt0091178,Haunted Honeymoon,2230,Haunted Honeymoon,1986,"",82,7163.0,"",haunted honeymoon,"","","","",0,Comedy Horror Music,"","",2.858879,8033397,tt0091178,82,8033397.0,8033397.0,"",0,"",false
+tt0479948,Living & Dying,5107,Living & Dying,2007,"",90,1905.0,"",living & dying,"","","","","","","","","","","","","","","",0,"",false
+tt0211126,Zakhm,3768,"",1998,"",125,3129.0,"",zakhm,"","","","","","","","","","","","","","","",0,"",false
+tt0368909,Ớng-Bák: Thé Thái Wárriớr,4495,Ong-bak,"",2003,108,73338.0,"",ong-bak: the thai warrior,"","","","",0,Action Thriller,"","",7.89916,"",tt0368909,142,2.0235426E7,4563167.0,1.5672259E7,0,"",false
+tt4733536,American Hero,8681,"",2015,"",86,4134.0,"",american hero,"","","","","","","","","","","","","","","",0,"",false
+tt1438522,Death Bell,6499,"",2008,"",88,2667.0,"",death bell,"","","","","","","","","","","","","","","",0,"",false
+tt0271543,Hidden Agenda,4045,Hidden Agenda,2001,"",102,1167.0,"",hidden agenda,"","","","","","","","","","","","","","","",0,"",false
+tt0092226,Wisé Gúys,2276,"","",1986,100,5700.0,"",wise guys,"","","","",13000000,Comedy Crime,"","",1.884204,8475466,tt0092226,79,8475466.0,8475466.0,"",0,"",false
+tt0228687,Gréédy Gúts,3818,Otesánek,2000,"",132,6312.0,"",greedy guts,"","","","","","","","","","","","","","","",0,"",false
+tt0414993,The Fountain,4754,The Fountain,2006,"",97,234952.0,"",the fountain,"","","","",35000000,Drama Adventure Science Fiction Romance,"","",11.577121,"",tt0414993,"","","","",0,"",false
+tt0345128,The Gleaners and I: Two Years Later,4383,Les glaneurs et la glaneuse... deux ans après,2002,"",63,1056.0,"",the gleaners and i: two years later,"","","","","","","","","","","","","","","",0,"",false
+tt0269857,Real Fiction,4033,Shilje sanghwang,2000,"",82,1438.0,"",real fiction,"","","","","","","","","","","","","","","",0,"",false
+tt5420886,Walking Out,8922,"",2017,"",95,6157.0,"",walking out,"","","","","","","","","","","","","","","",0,"",false
+tt9109306,Thé Finál Wish,9883,The Final Wish,2018,"",95,7667.0,"",the final wish,"","","","","","","","","","","","","","","",0,"",false
+tt0244528,Hadh Kar Di Aapne,3882,Hadh Kar Di Aapne,2000,"",134,1833.0,"",hadh kar di aapne,"","","","","","","","","","","","","","","",0,"",false
+tt10551608,Thanneermathan Dinangal,5713,Thanneer Mathan Dhinangal,2019,"",136,"","",thanneermathan dinangal,"","","","","","","","","","","","","","","",0,"",false
+tt0028167,Rembrandt,174,Rembrandt,1936,"",85,1778.0,"",rembrandt,"","","","","","","","","","","","","","","",0,"",false
+tt0486583,Fred Claus,5136,Fred Claus,2007,"",116,42378.0,"",fred claus,"","","","",100000000,Action Comedy Drama,"","",5.502098,97838349,tt0486583,55,9.7838349E7,7.2006777E7,2.5831572E7,0,"",false
+tt1776086,Bettie Page Reveals All,6970,Bettie Page Reveals All,2012,"",101,1498.0,"",bettie page reveals all,"","","","","","","","","","","","","","","",0,"",false
+tt0032551,Thé Grápés ớf Wráth,266,The Grapes of Wrath,"",1940,129,89955.0,"",the grapes of wrath,7,2,"","","","","","","","","","","","","",0,"",false
+tt11394318,The Truffle Hunters,5932,The Truffle Hunters,2020,"",84,1504.0,"",the truffle hunters,"","","","","","","","","","","","","","","",0,"",false
+tt0053226,Room at the Top,813,"",1959,"",117,5958.0,"",room at the top,6,2,"","","","","","","","","","","","","",0,"",false
+tt0082088,Blớớd Wédding,1839,"",1981,"",72,1730.0,"",blood wedding,"","","","","","","","","","","","","","","",0,"",false
+tt3455822,Night Will Fall,8116,"",2014,"",75,3192.0,"",night will fall,"","","","","","","","","","","","","","","",0,"",false
+tt0291988,Intimáté Stớriés,4148,"",2002,"",92,5054.0,"",intimate stories,"","","","","","","","","","","","","","","",0,"",false
+tt3228830,Súpér Dúpér Álicé Cớớpér,8016,Super Duper Alice Cooper,"",2014,98,1140.0,"",super duper alice cooper,"","","","","","","","","","","","","","","",0,"",false
+tt0112461,The Basketball Diaries,3000,"",1995,"",102,107119.0,"",the basketball diaries,"","","","","","","","","","","",180,2381087.0,2381087.0,"",0,"",false
+tt0054790,The Day the Earth Caught Fire,890,"",1961,"",99,5009.0,"",the day the earth caught fire,"","","","","","","","","","","","","","","",0,"",false
+tt7397098,Initiation,9521,"","",2020,96,"","",initiation,"","","","","","","","","","","","","","","",0,"",false
+tt1809387,The War You Don't See,7016,"",2010,"",97,"","",the war you don't see,"","","","","","","","","","","","","","","",0,"",false
+tt0250720,See Spot Run,3919,See Spot Run,2001,"",94,9143.0,"",see spot run,"","","","","","","","","","","",83,4.3057552E7,3.3357476E7,9700076.0,0,"",false
+tt1235536,Lucky Luke,6135,"",2009,"",103,4175.0,"",lucky luke,"","","","","","","","","","","","","","","",0,"",false
+tt0056085,How the West Was Won,939,How the West Was Won,1962,"",164,20028.0,"",how the west was won,8,3,"","",15000000,History Western Adventure,"","",7.281721,"",tt0056085,"","","","",0,"",false
+tt0093996,Slumber Party Massacre II,2362,"",1987,"",77,5671.0,"",slumber party massacre ii,"","","","","","","","","","","","","","","",0,"",false
+tt0240913,Under the Sand,3863,Sous le sable,2000,"",92,10083.0,"",under the sand,"","","","","","","","","","","","","","","",0,"",false
+tt0276613,Wáiting fớr Gớdớt,4064,"",2001,"",120,1401.0,"",waiting for godot,"","","","","","","","","","","","","","","",0,"",false
+tt1519245,Agnosia,6597,Agnosia,2010,"",105,1446.0,"",agnosia,"","","","","","","","","","","","","","","",0,"",false
+tt0084629,Private Popsicle,1958,Sapiches,1982,"",107,"","",private popsicle,"","","","","","","","","","","","","","","",0,"",false
+tt2931376,Thé Wáké,7869,The Wake,2017,"",86,"","",the wake,"","","","","","","","","","","","","","","",0,"",false
+tt0396271,When Will I Be Loved,4664,When Will I Be Loved,2004,"",81,3352.0,"",when will i be loved,"","","","",0,Drama Thriller Romance,"","",1.500214,"",tt0396271,"","","","",0,"",false
+tt1522846,Thé Búnny Gámé,6604,"",2011,"",76,2397.0,"",the bunny game,"","","","","","","","","","","","","","","",0,"",false
+tt0063090,Night of the Bloody Apes,1204,"","",1969,83,1022.0,"",night of the bloody apes,"","","","","","","","","","","","","","","",0,"",false
+tt0182503,Turist Ömer Uzay Yolu'nda,3664,Turist Ömer Uzay Yolu'nda,1973,"",72,3449.0,"",turist omer uzay yolu'nda,"","","","","","","","","","","","","","","",0,"",false
+tt0037635,Dead of Night,385,"",1945,"",103,"","",dead of night,"","","","","","","","","","","","","","","",0,"",false
+tt0374853,Malice in Wonderland,4530,Malice in Wonderland,2009,"",87,3180.0,"",malice in wonderland,"","","","","","","","","","","","","","","",0,"",false
+tt4504044,The Prodigy,8601,The Prodigy,2019,"",92,25461.0,"",the prodigy,"","","","","","","","","","","","","","","",0,"",false
+tt3379456,Rédéémér,8078,"",2014,"",88,1220.0,"",redeemer,"","","","","","","","","","","","","","","",0,"",false
+tt0115640,Beautiful Thing,3108,Beautiful Thing,1996,"",90,23685.0,"",beautiful thing,"","","","",0,Comedy Drama Romance,"","",5.766163,"",tt0115640,189,1548120.0,1548120.0,"",0,"",false
+tt0031147,Chárlié Chán át Tréásúré Islánd,223,"",1939,"",74,"","",charlie chan at treasure island,"","","","","","","","","","","","","","","",0,"",false
+tt8707374,Hell House LLC II: The Abaddon Hotel,9811,Hell House LLC II: The Abaddon Hotel,2018,"",83,3873.0,"",hell house llc ii: the abaddon hotel,"","","","","","","","","","","","","","","",0,"",false
+tt0138304,The Astronaut's Wife,3453,The Astronaut's Wife,1999,"",109,54581.0,"",the astronaut's wife,"","","","",75000000,Drama Science Fiction Thriller,"","",14.705865,"",tt0138304,101,1.9598588E7,1.0672566E7,8926022.0,0,"",false
+tt0082422,Fruits of Passion,1858,"",1981,"",83,1162.0,"",fruits of passion,"","","","","","","","","","","","","","","",0,"",false
+tt8413338,Kumbalangi Nights,9764,Kumbalangi Nights,2019,"",135,12891.0,"",kumbalangi nights,"","","","","","","","","","","","","","","",0,"",false
+tt0110216,Junior,2936,Junior,1994,"",109,67572.0,"",junior,1,"","","",60000000,Comedy Family Romance,"","",6.710215,37000000,tt0110216,41,3.6763355E7,3.6763355E7,"",0,"",false
+tt3244992,Trailer Park Boys: Don't Legalize It,8023,"",2014,"",95,4652.0,"",trailer park boys: don't legalize it,"","","","","","","","","","","","","","","",0,"",false
+tt0426462,Fifty Pills,4835,Fifty Pills,2006,"",85,2724.0,"",fifty pills,"","","","","","","","","","","","","","","",0,"",false
+tt0494823,Sekerpare,5187,Sekerpare,1983,"",90,6279.0,"",sekerpare,"","","","","","","","","","","","","","","",0,"",false
+tt1136688,Abelar: Tales of an Ancient Empire,5916,"",2010,"",86,"","",abelar: tales of an ancient empire,"","","","","","","","","","","","","","","",0,"",false
+tt6095090,Thé Bridé,9185,Nevesta,2017,"",95,2592.0,"",the bride,"","","","","","","","","","","","","","","",0,"",false
+tt0076363,The Many Adventures of Winnie the Pooh,1673,The Many Adventures of Winnie the Pooh,1977,"",74,34839.0,"",the many adventures of winnie the pooh,"","","","","","","","","","","","","","","",0,"",false
+tt5707304,Mother,9043,"",2016,"",95,1495.0,"",mother,1,"","","","","","","","","","","","","","",0,"",false
+tt0082085,Blow Out,1838,Blow Out,1981,"",108,"","",blow out,"","","","",18000000,Drama Mystery Thriller,"","",7.536295,12000000,tt0082085,60,1.2E7,1.2E7,"",0,"",false
+tt0044357,Angel Face,554,"",1953,"",91,7552.0,"",angel face,"","","","","","","","","","","","","","","",0,"",false
+tt2190838,Stage Fright,7386,"","",2014,89,4635.0,"",stage fright,"","","","","","","","","","","","","","","",0,"",false
+tt0859163,The Mummy: Tomb of the Dragon Emperor,5407,"",2008,"",112,156547.0,"",the mummy: tomb of the dragon emperor,"","","","",145000000,Adventure Action Fantasy,"","",14.250227,"",tt0859163,13,4.0344983E8,1.02491776E8,3.00958054E8,0,"",false
+tt8597594,Adverse,9790,"",2020,"",94,15707.0,"",adverse,"","","","","","","","","","","","","","","",0,"",false
+tt5041296,Muse,8788,Muse,2017,"",107,3441.0,"",muse,"","","","","","","","","","","","","","","",0,"",false
+tt2753778,The Death of Superman Lives: What Happened?,7796,The Death of Superman Lives: What Happened?,"",2015,104,4396.0,"",the death of superman lives: what happened?,"","","","","","","","","","","","","","","",0,"",false
+tt8563452,Cryptớ,9785,"",2019,"",105,5231.0,"",crypto,"","","","","","","","","","","","","","","",0,"",false
+tt9074318,Son Rise,9874,"",2019,"",49,"","",son rise,"","","","","","","","","","","","","","","",0,"",false
+tt1785635,The Vault,6986,The Vault,2017,"",91,12884.0,"",the vault,"","","","","","","","","","","","","","","",0,"",false
+tt8080302,Penguins,9682,Penguins,2019,"",76,"","",penguins,"","","","","","","","","","","","","","","",0,"",false
+tt0368658,Stage Beauty,4491,Stage Beauty,2004,"",106,10285.0,"",stage beauty,"","","","",0,Comedy Drama Romance,"","",3.127483,"",tt0368658,"","","","",0,"",false
+tt0014429,Safety Last!,18,Safety Last!,1923,"",74,19898.0,"",safety last!,"","","","",0,Comedy Romance,"","",4.394823,"",tt0014429,"","","","",0,"",false
+tt0062144,Portrait of Jason,1172,"",1967,"",105,1174.0,"",portrait of jason,"","","","","","","","","","","","","","","",0,"",false
+tt0445946,The Contract,4927,The Contract,"",2006,96,24411.0,"",the contract,"","","","",25000000,Drama Action Thriller Crime,"","",5.615957,"",tt0445946,"","","","",0,"",false
+tt1668209,Que Pena Tu Vida,6841,Que Pena Tu Vida,2010,"",94,1609.0,"",que pena tu vida,"","","","","","","","","","","","","","","",0,"",false
+tt0378215,King's Game,4558,Kongekabale,2004,"",107,4387.0,"",king's game,"","","","","","","","","","","","","","","",0,"",false
+tt0025699,Randy Rides Alone,142,"",1934,"",52,1034.0,"",randy rides alone,"","","","","","","","","","","","","","","",0,"",false
+tt8972256,Grééd,9848,Greed,2019,"",104,6011.0,"",greed,"","","","","","","","","","","","","","","",0,"",false
+tt2474972,Alien Outpost,7670,"",2014,"",92,6253.0,"",alien outpost,"","","","","","","","","","","","","","","",0,"",false
+tt0091339,Killer Workout,2239,"","",1987,85,2113.0,"",killer workout,"","","","","","","","","","","","","","","",0,"",false
+tt1294182,Living in Emergency,6258,"",2008,"",93,1054.0,"",living in emergency,"","","","","","","","","","","","","","","",0,"",false
+tt0115624,Barb Wire,3105,"","",1996,98,27390.0,"",barb wire,"","",1,"",0,Action Science Fiction,"","",5.877599,"",tt0115624,163,3793614.0,3793614.0,"",0,"",false
+tt0408181,Shankar Dada MBBS,4723,Shankar Dada MBBS,2004,"",174,1686.0,"",shankar dada mbbs,"","","","","","","","","","","","","","","",0,"",false
+tt0092534,Allan Quatermain and the Lost City of Gold,2281,Allan Quatermain and the Lost City of Gold,1986,"",99,9340.0,"",allan quatermain and the lost city of gold,"","","","","","","","","","","","","","","",0,"",false
+tt0411475,Hell Ride,4740,"",2008,"",84,15766.0,"",hell ride,"","","","",0,Action Thriller,"","",5.208993,"",tt0411475,"","","","",0,"",false
+tt8305116,Ayka,9728,Ayka,2018,"",100,1677.0,"",ayka,"","","","","","","","","","","","","","","",0,"",false
+tt1478839,The Art of Racing in the Rain,6542,The Art of Racing in the Rain,2019,"",109,28541.0,"",the art of racing in the rain,"","","","","","","","","","","",146,3.3766787E7,2.6395642E7,7371145.0,0,"",false
+tt0092530,Alien Predator,2280,"",1986,"",90,1109.0,"",alien predator,"","","","","","","","","","","","","","","",0,"",false
+tt0016332,Seven Chances,39,"",1925,"",56,9914.0,"",seven chances,"","","","","","","","","","","","","","","",0,"",false
+tt0056160,Two Half-Times in Hell,944,Két félidö a pokolban,1961,"",140,1231.0,"",two half-times in hell,"","","","","","","","","","","","","","","",0,"",false
+tt0090327,Witchboard,2199,"",1986,"",98,"","",witchboard,"","","","","","","","","","","",87,7369373.0,7369373.0,"",0,"",false
+tt9072746,Simmer,9873,"",2020,"",96,3189.0,"",simmer,"","","","","","","","","","","","","","","",0,"",false
+tt0087034,Cármén,2081,"",1984,"",152,1540.0,"",carmen,1,"","","","","","","","","","","","","","",0,"",false
+tt6015706,China Salesman,9158,"",2017,"",110,1464.0,"",china salesman,"","","","","","","","","","","","","","","",0,"",false
+tt0386342,Brothers,4617,"",2004,"",117,11176.0,"",brothers,"","","","","","","","","","","","","","","",0,"",false
+tt1090646,City Rats,5791,City Rats,2009,"",94,1290.0,"",city rats,"","","","","","","","","","","","","","","",0,"",false
+tt0075968,The Duellists,1657,"",1977,"",100,"","",the duellists,"","","","","","","","","","","","","","","",0,"",false
+tt0085601,Go for It,2004,"",1983,"",107,9601.0,"",go for it,"","","","","","","","","","","","","","","",0,"",false
+tt0035169,The Palm Beach Story,328,"",1942,"",88,11578.0,"",the palm beach story,"","","","","","","","","","","","","","","",0,"",false
+tt7221772,Seized,9466,"",2020,"",85,1957.0,"",seized,"","","","","","","","","","","","","","","",0,"",false
+tt0048445,Oklahoma!,650,Oklahoma!,1955,"",145,12294.0,"",oklahoma!,4,2,"","","","","","","","","","","","","",0,"",false
+tt8160864,Chase,9704,Chase,2019,"",84,10523.0,"",chase,"","","","","","","","","","","","","","","",0,"",false
+tt0847895,S.O.S. szerelem!,5394,S.O.S. szerelem!,"",2007,96,1010.0,"",s.o.s. szerelem!,"","","","","","","","","","","","","","","",0,"",false
+tt9248110,Blớớd ánd Mớnéy,9914,"",2020,"",89,1919.0,"",blood and money,"","","","","","","","","","","","","","","",0,"",false
+tt0452668,Pterodactyl,4963,"","",2005,91,2415.0,"",pterodactyl,"","","","","","","","","","","","","","","",0,"",false
+tt6439558,Recep Ivedik 5,9286,"","",2017,114,15670.0,"",recep ivedik 5,"","","","","","","","","","","",172,2.8952258E7,"",2.8952258E7,0,"",false
+tt1640548,Rampart,6789,"","",2011,108,23816.0,"",rampart,"","","","",12000000,Crime Drama,"","",5.874878,"",tt1640548,"","","","",0,"",false
+tt0101917,Freddy's Dead: The Final Nightmare,2651,"","",1991,89,44742.0,"",freddy's dead: the final nightmare,"","","","",11000000,Horror Thriller Comedy,"","",11.560358,"",tt0101917,37,3.4872033E7,3.4872033E7,"",0,"",false
+tt0045073,Red Planet Mars,569,Red Planet Mars,1952,"",87,1275.0,"",red planet mars,"","","","","","","","","","","","","","","",0,"",false
+tt2932536,47 Meters Down,7870,47 Meters Down,2017,"",89,52611.0,"",47 meters down,"","","","",5500000,Drama Thriller Horror Adventure,"","",52.854103,"",tt2932536,98,6.2187529E7,4.4307191E7,1.7880338E7,0,"",false
+tt1640484,Jumping the Broom,6787,Jumping the Broom,2011,"",112,10665.0,"",jumping the broom,"","","","",6600000,Comedy,"","",2.664211,"",tt1640484,137,3.8158601E7,3.7295394E7,863207.0,0,"",false
+tt3121860,Backtrack,7960,Backtrack,2014,"",97,1743.0,"",backtrack,"","","","","","","","","","","","","","","",0,"",false
+tt0063141,Isadora,1206,Isadora,1968,"",131,2347.0,"",isadora,1,"","","","","","","","","","","","","","",0,"",false
+tt8297300,Fractured,9726,"","",2016,80,1007.0,"",fractured,"","","","","","","","","","","","","","","",0,"",false
+tt0090036,The Slugger's Wife,2190,The Slugger's Wife,1985,"",105,1144.0,"",the slugger's wife,"","","","",0,Drama Romance,"","",3.08E-4,1878561,tt0090036,143,1878561.0,1878561.0,"",0,"",false
+tt1638894,Delta Zulu,6784,"",2012,"",121,4350.0,"",delta zulu,"","","","","","","","","","","","","","","",0,"",false
+tt0384533,Shé Háté Mé,4603,She Hate Me,2004,"",138,"","",she hate me,"","","","",8000000,Comedy Drama,"","",5.126696,"",tt0384533,"","","","",0,"",false
+tt6265988,Bhoomi,9236,Bhoomi,2017,"",136,1837.0,"",bhoomi,"","","","","","","","","","","","","","","",0,"",false
+tt4717194,Wizard School,8671,"",2015,"",91,3604.0,"",wizard school,"","","","","","","","","","","","","","","",0,"",false
+tt0351795,Ripoux 3,4411,"",2003,"",105,"","",ripoux 3,"","","","","","","","","","","","","","","",0,"",false
+tt0050599,Kiss Them for Me,722,"",1957,"",105,2010.0,"",kiss them for me,"","","","","","","","","","","","","","","",0,"",false
+tt0070438,The Neptune Factor,1479,"",1973,"",98,1003.0,"",the neptune factor,"","","","","","","","","","","","","","","",0,"",false
+tt0194722,Bridge of Dragons,3712,Bridge of Dragons,"",1999,92,2747.0,"",bridge of dragons,"","","","","","","","","","","","","","","",0,"",false
+tt0097441,Glory,2496,Glory,1989,"",122,130896.0,"",glory,5,3,"","",18000000,War,"","",7.521346,26828365,tt0097441,45,2.6828365E7,2.6828365E7,"",0,"",false
+tt0037462,The White Cliffs of Dover,379,"",1944,"",126,1611.0,"",the white cliffs of dover,1,"","","","","","","","","","","","","","",0,"",false
+tt3816614,Turkey Shoot,8316,"",2014,"",90,1286.0,"",turkey shoot,"","","","","","","","","","","","","","","",0,"",false
+tt0071203,Belladonna of Sadness,1503,Kanashimi no beradonna,1973,"",86,5397.0,"",belladonna of sadness,"","","","","","","","","","","","","","","",0,"",false
+tt0055458,Snớw Whité ánd thé Thréé Stớớgés,910,Snow White and the Three Stooges,1961,"",107,1041.0,"",snow white and the three stooges,"","","","","","","","","","","","","","","",0,"",false
+tt13451792,Kya Meri Sonam Gupta Bewafa Hai,6352,Kya Meri Sonam Gupta Bewafa Hai,"",2021,136,1095.0,"",kya meri sonam gupta bewafa hai,"","","","","","","","","","","","","","","",0,"",false
+tt0332318,Pinocchio 3000,4334,Pinocchio 3000,2004,"",80,1266.0,"",pinocchio 3000,"","","","","","","","","","","","","","","",0,"",false
+tt5566714,Háwáii,8982,"",2017,"",116,1171.0,"",hawaii,7,"","","","","","","","","","","","","","",0,"",false
+tt0106684,Deadfall,2805,"",1993,"",98,3272.0,"",deadfall,"","","","",10000000,Crime Drama Thriller,"","",1.145806,18,tt0106684,"","","","",0,"",false
+tt1082601,Fighting,5770,"",2009,"",105,32819.0,"",fighting,"","","","",0,Action Adventure Crime Drama Thriller,"","",7.036697,"",tt1082601,145,3.2482728E7,2.309101E7,9391718.0,0,"",false
+tt0088196,Stréétwisé,2121,"",1984,"",91,2229.0,"",streetwise,1,"","","","","","","","","","","","","","",0,"",false
+tt2079571,Roman Polanski: A Film Memoir,7279,Roman Polanski: A Film Memoir,2011,"",90,1204.0,"",roman polanski: a film memoir,"","","","","","","","","","","","","","","",0,"",false
+tt1664664,Hiddén 3D,6829,"",2011,"",81,1800.0,"",hidden 3d,"","","","","","","","","","","","","","","",0,"",false
+tt6932874,The Boss Baby: Family Business,9409,The Boss Baby: Family Business,2021,"",107,13665.0,"",the boss baby: family business,"","","","","","","","","","","",31,1.4674528E8,5.730028E7,8.9445E7,0,"",false
+tt0817228,The Tattooist,5337,"","",2007,92,3133.0,"",the tattooist,"","","","","","","","","","","","","","","",0,"",false
+tt1972819,And While We Were Here,7189,And While We Were Here,"",2012,83,3841.0,"",and while we were here,"","","","","","","","","","","","","","","",0,"",false
+tt0343221,Mother of Mine,4379,"",2005,"",111,4385.0,"",mother of mine,"","","","","","","","","","","","","","","",0,"",false
+tt3198468,North 24 Kaatham,8005,North 24 Kaatham,2013,"",125,"","",north 24 kaatham,"","","","","","","","","","","","","","","",0,"",false
+tt1744885,The Opening,6942,The Opening,2011,"","",4135.0,"",the opening,"","","","","","","","","","","","","","","",0,"",false
+tt0245356,Perfume,3884,"",2001,"",106,1023.0,"",perfume,"","","","","","","","","","","","","","","",0,"",false
+tt1590796,Mutant Girls Squad,6717,"",2010,"",89,1836.0,"",mutant girls squad,"","","","","","","","","","","","","","","",0,"",false
+tt2258337,Eega,7458,"",2012,"",145,22832.0,"",eega,"","","","",5990000,Romance Science Fiction,"","",8.615159,"",tt2258337,"","","","",0,"",false
+tt0075029,The Outlaw Josey Wales,1630,The Outlaw Josey Wales,1976,"",135,70789.0,"",the outlaw josey wales,1,"","","",3700000,Drama Western,"","",5.849522,"",tt0075029,"","","","",0,"",false
+tt0143428,Lone Wolf and Cub: Baby Cart in the Land of Demons,3486,Kozure Ôkami: Meifumadô,1973,"",90,"","",lone wolf and cub: baby cart in the land of demons,"","","","","","","","","","","","","","","",0,"",false
+tt7218518,Pád Mán,9464,Padman,2018,"",140,24374.0,"",pad man,"","","","","","","","","","","",173,2.904502E7,1670192.0,2.7374828E7,0,"",false
+tt4667084,Thé Únséén,8655,"",2016,"",108,1138.0,"",the unseen,1,"","","","","","","","","","","","","","",0,"",false
+tt0015175,Die Nibelungen: Siegfried,27,"",1924,"",143,5676.0,"",die nibelungen: siegfried,"","","","","","","","","","","","","","","",0,"",false
+tt1777612,Demons Never Die,6972,"",2011,"",93,1708.0,"",demons never die,"","","","","","","","","","","","","","","",0,"",false
+tt0263283,The Return,3993,Dönüs,1972,"",94,1158.0,"",the return,"","","","","","","","","","","","","","","",0,"",false
+tt7531096,StarDog and TurboCat,9547,"",2019,"",90,2537.0,"",stardog and turbocat,"","","","","","","","","","","","","","","",0,"",false
+tt2168180,Nise: The Heart of Madness,7351,Nise: O Coração da Loucura,2015,"",106,2340.0,"",nise: the heart of madness,"","","","","","","","","","","","","","","",0,"",false
+tt0066564,Which Way to the Front?,1323,"",1970,"",96,1323.0,"",which way to the front?,"","","","","","","","","","","","","","","",0,"",false
+tt0074608,Harry and Walter Go to New York,1611,"",1976,"",115,"","",harry and walter go to new york,"","","","","","","","","","","","","","","",0,"",false
+tt0486708,Maskeli Besler: Intikam Pesinde,5140,"",2005,"",89,5409.0,"",maskeli besler: intikam pesinde,"","","","","","","","","","","","","","","",0,"",false
+tt4209174,Chimera Strain,8490,Chimera Strain,2018,"",80,3209.0,"",chimera strain,"","","","","","","","","","","","","","","",0,"",false
+tt0112427,An Awfully Big Adventure,2996,"",1995,"",112,2765.0,"",an awfully big adventure,"","","","",4000000,Romance Drama Comedy,"","",0.922958,"",tt0112427,"","","","",0,"",false
+tt0264578,The Endurance,4000,The Endurance: Shackleton's Legendary Antarctic Expedition,2000,"",97,1975.0,"",the endurance,"","","","",0,Documentary History,"","",1.079975,2452566,tt0264578,"","","","",0,"",false
+tt5792472,Take the 10,9080,Take the 10,2017,"",80,3026.0,"",take the 10,"","","","","","","","","","","","","","","",0,"",false
+tt2124803,How to Survive a Plague,7327,How to Survive a Plague,2012,"",110,4027.0,"",how to survive a plague,1,"","","","","","","","","","","","","","",0,"",false
+tt6814914,Journey from Greece,9379,Djam,"",2017,97,1758.0,"",journey from greece,"","","","","","","","","","","","","","","",0,"",false
+tt5990444,The Trap,9152,The Trap,2019,"",90,1519.0,"",the trap,"","","","","","","","","","","","","","","",0,"",false
+tt2085783,Deool,7293,Deool,2011,"",135,1560.0,"",deool,"","","","","","","","","","","","","","","",0,"",false
+tt4685806,The Con is On,8661,The Con Is On,2018,"",90,9189.0,"",the con is on,"","","","","","","","","","","","","","","",0,"",false
+tt2395199,Enemies Closer,7601,"",2013,"",85,5906.0,"",enemies closer,"","","","","","","","","","","","","","","",0,"",false
+tt0347618,The Cat Returns,4395,"",2002,"",75,53464.0,"",the cat returns,"","","","",0,Adventure Fantasy Animation Drama Family,"","",11.639023,"",tt0347618,82,5.3452652E7,"",5.3452652E7,0,"",false
+tt0373445,Thé Wéndéll Bákér Stớry,4518,"",2005,"",99,5787.0,"",the wendell baker story,"","","","","","","","","","","","","","","",0,"",false
+tt2299842,Pieta,7495,"",2012,"",103,14206.0,"",pieta,"","","","",103000,Drama,"","",5.194433,3623330,tt2299842,"","","","",0,"",false
+tt2853182,The Black Water Vampire,7831,The Black Water Vampire,2014,"",82,1005.0,"",the black water vampire,"","","","","","","","","","","","","","","",0,"",false
+tt0077497,Émmánúéllé 3,1708,Goodbye Emmanuelle,1977,"",98,1736.0,"",emmanuelle 3,"","","","","","","","","","","","","","","",0,"",false
+tt0107048,Groundhog Day,2817,Groundhog Day,1993,"",101,599901.0,"",groundhog day,"","","","",14600000,Romance Fantasy Drama Comedy,"","",12.989627,70906973,tt0107048,13,7.0906973E7,7.0906973E7,"",0,"",false
+tt0155753,I'll Be Home for Christmas,3524,"",1998,"",86,10199.0,"",i'll be home for christmas,"","","","","","","","","","","",118,1.2214338E7,1.2214338E7,"",0,"",false
+tt0439123,Ázúr & Ásmár: Thé Princés' Qúést,4897,Azur et Asmar,2006,"",99,3091.0,"",azur & asmar: the princes' quest,"","","","","","","","","","","","","","","",0,"",false
+tt4061620,Firébird,8414,"",2021,"",107,"","",firebird,"","","","","","","","","","","","","","","",0,"",false
+tt0093105,"Good Morning, Vietnam",2313,"",1987,"",121,134516.0,"","good morning, vietnam",1,"","","",13000000,Comedy Drama War,"","",9.023282,"",tt0093105,4,1.2392237E8,1.2392237E8,"",0,"",false
+tt11084896,Spirit Untamed,5840,Spirit Untamed,2021,"",88,2884.0,"",spirit untamed,"","","","","","","","","","","",72,4.2717215E7,1.7716215E7,2.5001E7,0,"",false
+tt0254703,The Point Men,3954,The Point Men,2001,"",100,1131.0,"",the point men,"","","","","","","","","","","","","","","",0,"",false
+tt0063231,"Live a Little, Love a Little",1211,"",1968,"",90,1639.0,"","live a little, love a little","","","","","","","","","","","","","","","",0,"",false
+tt0129794,An Average Little Man,3415,Un borghese piccolo piccolo,1977,"",122,2615.0,"",an average little man,"","","","","","","","","","","","","","","",0,"",false
+tt0100991,Hiruko the Goblin,2622,"",1991,"",89,1240.0,"",hiruko the goblin,"","","","","","","","","","","","","","","",0,"",false
+tt3101132,Ghớúl,7950,"",2015,"",86,1843.0,"",ghoul,"","","","","","","","","","","","","","","",0,"",false
+tt0087810,No Small Affair,2107,"",1984,"",102,2181.0,"",no small affair,"","","","","","","","","","","",111,4994094.0,4994094.0,"",0,"",false
+tt0078467,Violette,1736,Violette Nozière,"",1978,124,2282.0,"",violette,"","","","","","","","","","","","","","","",0,"",false
+tt10441958,How to Be a Good Wife,5681,"",2020,"",109,1554.0,"",how to be a good wife,"","","","","","","","","","","",166,6029102.0,"",6029102.0,0,"",false
+tt0041694,No Man of Her Own,492,No Man of Her Own,1950,"",98,2112.0,"",no man of her own,"","","","","","","","","","","","","","","",0,"",false
+tt0265859,Témptéd,4012,"",2001,"",95,1314.0,"",tempted,"","","","","","","","","","","","","","","",0,"",false
+tt0362269,Kinsey,4454,"",2004,"",118,48619.0,"",kinsey,1,"","","","","","","","","","",162,1.7050017E7,1.0254979E7,6795038.0,0,"",false
+tt0769507,The Sun Also Rises,5242,Tai yang zhao chang sheng qi,2007,"",116,"","",the sun also rises,"","","","","","","","","","","","","","","",0,"",false
+tt4483220,The Funhouse Massacre,8596,"",2015,"",90,3768.0,"",the funhouse massacre,"","","","","","","","","","","","","","","",0,"",false
+tt0492492,Sleeping Dogs Lie,5168,"",2006,"",87,3316.0,"",sleeping dogs lie,"","","","","","","","","","","","","","","",0,"",false
+tt0131704,Thé Ádvéntúrés ớf Rớcky & Búllwinklé,3429,"",2000,"",92,"","",the adventures of rocky & bullwinkle,"","","","",76000000,Action Adventure Animation Comedy Family,"","",11.880936,"",tt0131704,94,3.513482E7,2.600582E7,9129000.0,0,"",false
+tt9769668,Tughlaq Durbar,9984,Tughlaq Durbar,2021,"",145,1430.0,"",tughlaq durbar,"","","","","","","","","","","","","","","",0,"",false
+tt3748512,Hitchcock/Truffaut,8291,"",2015,"",79,6359.0,"",hitchcock/truffaut,"","","","","","","","","","","","","","","",0,"",false
+tt2179226,Absolute Deception,7367,"",2013,"",92,1877.0,"",absolute deception,"","","","","","","","","","","","","","","",0,"",false
+tt0063227,The Lion in Winter,1210,"",1968,"",134,30576.0,"",the lion in winter,7,3,"","","","","","","","","","","","","",0,"",false
+tt0097388,Friday the 13th Part VIII: Jason Takes Manhattan,2493,Friday the 13th Part VIII: Jason Takes Manhattan,"",1989,100,36672.0,"",friday the 13th part viii: jason takes manhattan,"","","","",5000000,Horror Thriller,"","",7.743144,14000000,tt0097388,70,1.4343976E7,1.4343976E7,"",0,"",false
+tt0070707,Sleeper,1492,Sleeper,1973,"",89,42397.0,"",sleeper,"","","","",2000000,Comedy Romance Science Fiction,"","",6.048904,"",tt0070707,"","","","",0,"",false
+tt0337910,Camp Slaughter,4351,Camp Slaughter,2004,"",85,1807.0,"",camp slaughter,"","","","","","","","","","","","","","","",0,"",false
+tt5503688,6 Below: Miracle on the Mountain,8957,"",2017,"",98,7170.0,"",6 below: miracle on the mountain,"","","","","","","","","","","","","","","",0,"",false
+tt5646136,Hillary's America: The Secret History of the Democratic Party,9012,"",2016,"",106,7176.0,"",hillary's america: the secret history of the democratic party,"","",1,1,5000000,History Documentary,"","",1.628629,13000000,tt5646136,"","","","",0,"",false
