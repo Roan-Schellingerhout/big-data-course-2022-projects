@@ -1,58 +1,69 @@
 from py_files.d2v_embed import d2v_embed
+import numpy as np
 import pandas as pd
+import re
 import math
+from sklearn.preprocessing import MultiLabelBinarizer
 
 
 def df_model_prep(df, filename):
     
     try:
         print("Looking for pre made file...")
-        return pd.read_csv(f"{filename}_df_with_features_fully_processed_read_for_model.csv", index_col = 0)
+        return pd.read_csv(f"{filename}_df_with_features_fully_processed_ready_for_model.csv", index_col = 0)
     except:
         print("No file found, creating a new one")
     
+    df['oscar_noms'] = df['oscar_noms'].fillna(0.0)
+    df['oscar_wins'] = df['oscar_noms'].fillna(0.0)
+    df['razzie_noms'] = df['razzie_noms'].fillna(0.0)
+    df['razzie_wins'] = df['razzie_wins'].fillna(0.0)
+    
+    
     # just encode languages into ints for this column
     df['title_language'] = pd.factorize(df['title_language'])[0]
+    df['original_language'] = pd.factorize(df['original_language'])[0]
     
-    # dealing with (some) nan values
-    for index, row in df.iterrows():
-        
-        breakpoint()
-        # For missing startYear and endYear entries, insert the other, if it exists.
-        if math.isnan(row['startYear']):
-            if not math.isnan(row['endYear']):
-                df.at[index,'startYear']=df.at[index,'endYear']
-        if math.isnan(row['endYear']):
-            if not math.isnan(row['startYear']):
-                df.at[index,'endYear']=df.at[index,'startYear']
-                
-        # For missing oscar_noms and oscar_wins, insert 0
-        if math.isnan(row['oscar_noms']):
-            df.at[index,'oscar_noms'] = 0
-        if math.isnan(row['oscar_wins']):
-            df.at[index,'oscar_wins'] = 0
+    lang_proc = df["language"]\
+                .replace(np.nan, " ")\
+                .apply(lambda x: re.sub("[^a-zA-Z]", " ", str(x)))\
+                .str.split()
+    
+    mlb = MultiLabelBinarizer()
+    lang_proc = pd.DataFrame(mlb.fit_transform(lang_proc),
+                             columns=mlb.classes_,
+                             index=df.index)
+    
+    df = df.drop(columns = ['language'])
+    df = df.join(lang_proc)
 
-    df['numVotes'] = df['numVotes'].fillna(df['numVotes'].mean(skipna=True))
-    df['runtimeMinutes'] = df['runtimeMinutes'].fillna(df['runtimeMinutes'].mean(skipna=True))
+    prod_proc = df["production_companies"]\
+                .replace(np.nan, " ")\
+                .apply(lambda x: re.sub("[^a-zA-Z]", " ", str(x)))\
+                .str.split()
     
-    df['title_language'] = pd.factorize(df['title_language'])[0]
+    mlb_prod = MultiLabelBinarizer()
+    prod_proc = pd.DataFrame(mlb_prod.fit_transform(prod_proc),
+                             columns=mlb_prod.classes_,
+                             index=df.index)
     
-    prim_title_df = d2v_embed(df['primaryTitle'])
-#     orig_title_df = d2v_embed(df['originalTitle'])
-#     prim_title_formatted_df = d2v_embed(df['primaryTitleFormatted'])
-#     title_formatted_df = d2v_embed(df['titleFormatted'])
-#    genres_df = d2v_embed(df['genres'])
-    overview_df = d2v_embed(df['overview'])
+    df = df.drop(columns = ["production_companies"])
+    df = df.join(prod_proc, rsuffix='_prod')
     
-    df.drop(columns = df.select_dtypes(include='object').columns, inplace=True)
+#     df['numVotes'] = df['numVotes'].fillna(df['numVotes'].mean(skipna=True))
+#     df['runtimeMinutes'] = df['runtimeMinutes'].fillna(df['runtimeMinutes'].mean(skipna=True))
+    
+    prim_title_df = d2v_embed(df['primaryTitle'], filename)
+    orig_title_df = d2v_embed(df['originalTitle'], filename)
+    title_formatted_df = d2v_embed(df['titleFormatted'], filename)
+#     overview_df = d2v_embed(df['overview'])
+    
+    df.drop(columns = ['primaryTitle', 'originalTitle', 'titleFormatted'], inplace=True)
     
     df = df.join(prim_title_df)
-#     df = df.join(orig_title_df)
-#     df = df.join(prim_title_formatted_df)
-#     df = df.join(title_formatted_df)
-#    df = df.join(genres_df)
-    df = df.join(overview_df)
+    df = df.join(orig_title_df)
+    df = df.join(title_formatted_df)
     
-    df.to_csv(f"{filename}_df_with_features_fully_processed_read_for_model.csv")
+    df.to_csv(f"{filename}_df_with_features_fully_processed_ready_for_model.csv")
     
     return df
