@@ -5,8 +5,16 @@ from tqdm import tqdm
 import pandas as pd
 import math
 
-def d2v_embed(df_col, max_epochs = 100, vec_size = 128, alpha = 0.025):
+def d2v_embed(df_col, filename, max_epochs = 100, vec_size = 128, alpha = 0.025):
     
+    
+    try:
+        print(f"Looking for pre-made d2v embedding of {df_col.name} column...")
+        return pd.read_csv(f"{filename}_doc2vec_embeddings_{df_col.name}.csv", index_col = 'id')
+    except:
+        print("Not found, creating new one..")
+        
+   
     df_col = df_col.fillna(" ")
     df_col = df_col.str.lower()\
                    .str.normalize('NFKD')\
@@ -36,9 +44,14 @@ def d2v_embed(df_col, max_epochs = 100, vec_size = 128, alpha = 0.025):
         model.min_alpha = model.alpha
     
     # save model
-    model.save(f"doc2vec_model_{df_col.name}.model")
+    model.save(f"{filename}_doc2vec_model_{df_col.name}.model")
     
     #return df with doc embeddings
-    return pd.DataFrame([model.docvecs[i] for i in range(len(df_col))], 
+    
+    embs = pd.DataFrame([model.docvecs[i] for i in range(len(df_col))], 
                         index = df_col.index,
                         columns = [f"{df_col.name}_{i}" for i in range(vec_size)])
+    
+    embs.to_csv(f"{filename}_doc2vec_embeddings_{df_col.name}.csv")
+    
+    return embs
