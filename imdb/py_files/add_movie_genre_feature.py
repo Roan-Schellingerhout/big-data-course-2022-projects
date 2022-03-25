@@ -30,7 +30,7 @@ def add_movie_genre(df_):
     # remove year from title column and set title data type correctly
     movie_genres['year'] = movie_genres['year'].astype(int)
     movie_genres['title'] = movie_genres['title'].apply(lambda x: remove_year(x)).astype('string')
-    movie_genres['genres'] = movie_genres['genres'].apply(lambda x: x.split('|'))
+    movie_genres['genres_movielens'] = movie_genres['genres'].apply(lambda x: x.split('|'))
     
     # format title in same way as original dataset
     movie_genres["titleFormatted"] = movie_genres["title"].str.lower()\
@@ -42,9 +42,7 @@ def add_movie_genre(df_):
     
     movie_genres.drop_duplicates(subset=['titleFormatted', 'year'], inplace=True)
     
-    df_ = df_.reset_index().merge(movie_genres[['year', 'titleFormatted', 'genres']], left_on=['primaryTitleFormatted', 'Year'], right_on=['titleFormatted', 'year'], how='left').set_index('id')
-    s = df_['genres'].explode()
-    df_ = df_.join(pd.crosstab(s.index, s), how='left')
+    df_ = df_.reset_index().merge(movie_genres[['year', 'titleFormatted', 'genres_movielens']], left_on=['primaryTitleFormatted', 'Year'], right_on=['titleFormatted', 'year'], how='left').set_index('id')
     
     return df_
     
